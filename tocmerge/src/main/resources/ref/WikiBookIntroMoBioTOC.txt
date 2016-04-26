@@ -1,0 +1,310 @@
+1 Macromolecules and Cells
+  11 Macromolecules
+    111.1 Carbohydrates
+      111.11.1.1 a.Monosaccharides
+      111.11.1.2 b.Disaccharide
+      111.11.1.3 c.Oligosaccharide
+      111.11.1.4 d.Polysaccharides
+    111.1.1 a.Monosaccharides
+    111.1.2 b.Disaccharide
+    111.1.3 c.Oligosaccharide
+    111.1.4 d.Polysaccharides
+    111.2 Proteins
+    111.3 Lipids
+    111.4 Water
+    111.5 Noncovalent bond
+  12 pH plays important role in living organism
+  13 Cell The basic unit of life
+    133.1 Prokaryotes
+    133.2 Eukaryotic cell
+    133.3 Plant cell is different from animal cell
+    133.4 Origin of Eukaryotic organelles and endosymbiotic theory
+      133.43.4.1 Eukaryotic organelles
+      133.43.4.2 Prokaryotic organelles
+    133.4.1 Eukaryotic organelles
+    133.4.2 Prokaryotic organelles
+  14 Macromolecules which are present in the cell membrane
+  15 Facts to be remembered
+  16 Question time
+  17 References
+2 Nucleus
+  21 Nucleus
+  22 Components of NUCLEUS
+    222.1 The nucleoskeleton
+    222.2 Chromosomes:
+    222.3 Nucleolus
+    222.4 Splicing speckles or SC35 speckles
+    222.5 Cajal bodies or coiled bodies
+  23 Nuclear import and export
+    233.1 Nuclear localization signal (NLS)
+    233.2 Nuclear export signal (NES)
+      233.23.2.1 Role of Ran GTPase in nuclear transport during interphase
+    233.2.1 Role of Ran GTPase in nuclear transport during interphase
+  24 Facts to be remembered
+  25 Question time
+  26 References
+3 Cell Cycle
+  31 Phases of cell division
+  32 G0 phase
+  33 G1 phase
+  34 S phase
+  35 G2 phase
+  36 Mitosis
+  37 Cyclins
+    377.1 Types of Cyclins
+  38 Cyclin dependent kinases (CDKs)
+    388.1 Functions of cyclin and CDKs
+  39 Disregulation of cell cycle
+  310 Cell cycle checkpoints
+    31010.1 The G1/S checkpoint
+    31010.2 The G2/M checkpoint
+  311 Metaphase-anaphase checkpoint
+  312 Cell division in fission yeast
+  313 Facts to be remembered
+  314 References
+4 DNA the unit of life
+  41 DNA is a genetic material
+  42 Structure of DNA
+    422.1 Base pairing Of DNA
+      422.12.1.1 Purine base
+      422.12.1.2 Adenine
+      422.12.1.3 Guanine
+    422.1.1 Purine base
+    422.1.2 Adenine
+    422.1.3 Guanine
+    422.2 Pyrimidine base
+      422.22.2.1 Cytosine
+      422.22.2.2 Thymine
+      422.22.2.3 Uracil
+    422.2.1 Cytosine
+    422.2.2 Thymine
+    422.2.3 Uracil
+    422.3 Nucleosides
+    422.4 Nucleotide
+  43 Forms of DNA
+  44 Noncoding genomic DNA
+  45 Coiling of DNA
+  46 Histones: The DNA binding protein
+    466.1 Histone DNA interaction
+  47 DNA-binding domains
+  48 DNA sequencing
+  49 Maxam and Gilbert method
+  410 Dideoxynucleotide Chain-termination methods
+    41010.1 Dye-terminator sequencing
+    41010.2 Challenges
+    41010.3 Automation and sample preparation
+  411 Polymerase chain reaction
+  412 Facts to be remembered
+  413 References
+5 Replication of DNA and its repair
+  51 Replication
+    511.1 Leading strand
+    511.2 Lagging strand
+      511.21.2.1 Okazaki fragment
+    511.2.1 Okazaki fragment
+    511.3 Classification of DNA polymerase
+  52 Replication is semiconservative
+  53 Replication in prokaryote
+    533.1 Primase
+    533.2 Primosome
+    533.3 Elongation of DNA strand
+    533.4 Termination
+  54 DNA polymerase in prokaryote
+    544.1 DNA Polymerase I or Pol I
+      544.14.1.1 Klenow fragment
+    544.1.1 Klenow fragment
+  55 Helicases and Topoisomerase
+  56 Replication in Eukaryote
+    566.1 Eukaryotic DNA polymerase
+    566.2 DNA Replication occurs during the S phase
+  57 Replication in mitochondria
+  58 C0t values
+  59 DNA repair
+    599.1 Types of DNA damage
+    599.2 Sources of damage
+    599.3 Types of mutation
+  510 DNA repair and disorders
+  511 Human Chromosome and Chromosomal aberrations
+  512 DNA Recombination
+  513 References
+6 RNA:The ribonucleic acid
+  61 History of RNA
+  62 Types of RNA
+    622.1 RNAs involved in protein synthesis
+      622.12.1.1 Messenger RNA
+      622.12.1.2 Ribosomal RNA
+      622.12.1.3 tRNA
+    622.1.1 Messenger RNA
+    622.1.2 Ribosomal RNA
+    622.1.3 tRNA
+    622.2 RNAs involved in post-transcriptional
+      622.22.2.1 Small nuclear ribonucleic acid (snRNA)
+      622.22.2.2 Small nucleolar RNAs (snoRNAs)
+      622.22.2.3 Ribonuclease P (RNase P)
+      622.22.2.4 Telomerase RNA
+    622.2.1 Small nuclear ribonucleic acid (snRNA)
+    622.2.2 Small nucleolar RNAs (snoRNAs)
+    622.2.3 Ribonuclease P (RNase P)
+    622.2.4 Telomerase RNA
+    622.3 Small interfering RNA (siRNA)
+  63 Structure of RNA
+  64 RNA base
+  65 DNA vs RNA
+  66 snRNA and snRNPs
+  67 RNA as an enzyme
+  68 Ribonuclease
+  69 RNAi
+    699.1 RNAi and Disease control
+  610 MicroRNA (miRNA)
+  611 Facts to be remembered
+  612 References
+7 Transcription of RNA and its modification
+  71 Transcription
+  72 Formation of Pre-initiation complex
+    722.1 TATA-binding protein and Transcription factor II D
+  73 RNA polymerase
+  74 RNA polymerase in eukaryotes
+    744.1 RNA polymerase I
+    744.2 RNA polymerase II
+      744.24.2.1 C-terminal domain (CTD) of RNA Pol II
+    744.2.1 C-terminal domain (CTD) of RNA Pol II
+    744.3 RNA polymerase III
+  75 RNA polymerase IV
+  76 Initiation of transcription
+    766.1 Transcription Factors
+  77 Elongation of RNA
+  78 Transcription termination
+    788.1 Rho-dependent termination
+    788.2 Rho-independent termination
+  79 mRNA and its modification
+    799.1 Capping of mRNA
+    799.2 Polyadenylation of mRNA
+  710 Splicing of RNA
+    71010.1 Spliceosome and its assembly
+  711 Self splicing
+  712 RNA-editing
+    71212.1 Editing by insertion or deletion
+  713 References
+8 Genetic Code
+  81 Introduction
+  82 Origin of genetic code
+  83 Summary of Khorana’s research
+    833.1 The table of Genetic Code
+  84 Degeneracy of the genetic code
+  85 Initiation and Termination codon
+    855.1 Initiation or Start Codon
+    855.2 Termination or Stop codon
+  86 Facts to be remembered
+  87 References
+9 Gene Expression
+  91 Transcription
+  92 One gene-one enzyme hypothesis
+    922.1 One gene-one polypeptide
+  93 Operon
+    933.1 Structure of an operon:
+      933.13.1.1 Prokaryotic promoters
+      933.13.1.2 Eukaryotic promoters
+    933.1.1 Prokaryotic promoters
+    933.1.2 Eukaryotic promoters
+    933.2 Enhancer
+      933.23.2.1 Corepressor
+    933.2.1 Corepressor
+    933.3 Riboswitch
+  94 Lac operon
+    944.1 Lac repressor (LacI)
+  95 Trp operon
+  96 Arabinose operon
+  97 Housekeeping gene
+  98 Regulation of gene expression
+  99 Tools for studying gene expression
+    999.1 Vector
+    999.2 PCR
+    999.3 Restriction enzymes
+    999.4 Cloning of gene and its expression
+    999.5 Reporter gene
+  910 References
+10 Protein synthesis
+  101 Translation: The Synthesis of protein
+  102 tRNA (Transfer RNA)
+  103 Ribosome
+    1033.1 Structure of the Ribosome
+    1033.2 Kozak consensus sequence
+  104 Synthesis of protein in Prokaryotes
+    1044.1 Initiation
+  105 Elongation
+    1055.1 Termination
+    1055.2 Recycling
+    1055.3 Polysomes
+  106 Synthesis of protein in Eukaryotes
+    1066.1 Initiation
+      1066.16.1.1 The cap-independent initiation
+      1066.16.1.2 Cap-dependent initiation
+    1066.1.1 The cap-independent initiation
+    1066.1.2 Cap-dependent initiation
+    1066.2 Elongation
+    1066.3 Termination
+  107 Structure of protein
+    1077.1 Primary structure of protein
+    1077.2 Secondary structure of protein
+    1077.3 Tertiary structure of protein
+    1077.4 Quaternary structure of protein
+  108 Drugs which inhibit protein synthesis
+  109 Posttranslational modification of protein
+  1010 Identification of protein in laboratory
+    101010.1 SDS-Gel electrophoresis
+    101010.2 Setting of transfer in semi dry assembly
+  1011 Facts to be remembered
+  1012 Question time
+  1013 References
+11 Function and structure of Proteins
+  111 Amino acids
+    1111.1 Classification of aminoacids
+  112 Peptide bond
+    1122.1 β-peptides
+  113 Enzymes
+    1133.1 Classification of enzymes
+    1133.2 Oxidoreductase
+  114 Structure of protein
+    1144.1 Primary structure of protein
+    1144.2 Secondary structure of protein
+    1144.3 Tertiary structure of protein
+    1144.4 Quaternary structure of proteins
+  115 Protein structure determination
+    1155.1 X-ray crystallography
+    1155.2 Nuclear magnetic resonance spectroscopy or NMR
+  116 How to sequence a protein?
+    1166.1 Edman degradation
+    1166.2 N-terminal amino acid analysis
+    1166.3 C-terminal amino acid analysis
+    1166.4 Mass spectrometry
+  117 Types of protein
+    1177.1 Conjugated protein
+      1177.17.1.1 Lipoproteins
+      1177.17.1.2 Glycoproteins
+      1177.17.1.3 phosphoproteins
+      1177.17.1.4 Metalloprotein
+      1177.17.1.5 hemoproteins
+      1177.17.1.6 Opsins
+      1177.17.1.7 Flavoproteins
+    1177.1.1 Lipoproteins
+    1177.1.2 Glycoproteins
+    1177.1.3 phosphoproteins
+    1177.1.4 Metalloprotein
+    1177.1.5 hemoproteins
+    1177.1.6 Opsins
+    1177.1.7 Flavoproteins
+    1177.2 Simple proteins
+      1177.27.2.1 Albumin
+      1177.27.2.2 Globulin
+      1177.27.2.3 Histones
+    1177.2.1 Albumin
+    1177.2.2 Globulin
+    1177.2.3 Histones
+    1177.3 Derived protein
+      1177.37.3.1 Peptones
+      1177.37.3.2 Proteases
+    1177.3.1 Peptones
+    1177.3.2 Proteases
+  118 Protein data bank or PDB
+  119 Insulin
+  1110 References
