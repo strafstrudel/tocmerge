@@ -42,7 +42,7 @@ public class WikiBookIntroMoBio extends TextSourceBaseImpl implements TextSource
 				String l1Ordinal = String.format("%s", l1Index);
 				String l1Label = l1Link.text();
 				if (topicBlackList.contains(l1Label)) break;
-				Resource l1Topic = createTopic(l1Ordinal, l1Label);
+				Resource l1Topic = createTopic(1, l1Ordinal, l1Label);
 				System.out.println(l1Ordinal + " " + l1Label);
 				l1Index++;
 				Element l2Content = getL2Content(l2Url);
@@ -56,11 +56,11 @@ public class WikiBookIntroMoBio extends TextSourceBaseImpl implements TextSource
 	
 	private void makeL2Toc(Resource l1Topic, String ordinal, Element content) throws IOException {
 		Elements tocList = content.select("#toc > ul > li");
-		makeNestedToc(l1Topic, ordinal, tocList, content);
+		makeNestedToc(2, l1Topic, ordinal, tocList, content);
 	}
 	
 	int indent = 2;
-	private void makeNestedToc(Resource parent, String ordinal, Elements list, Element content) throws IOException {
+	private void makeNestedToc(int level, Resource parent, String ordinal, Elements list, Element content) throws IOException {
 		if (list == null) return;
 		for (Element li : list) {
 			Element link = li.select("a[href]").first();
@@ -72,14 +72,14 @@ public class WikiBookIntroMoBio extends TextSourceBaseImpl implements TextSource
 			try {
 				text = content.select(linkUrl).first().parent().nextElementSibling().text();
 			} catch (Exception e) { }
-			Resource topic = createTopic(parent, linkOrdinal, linkLabel);
+			Resource topic = createTopic(level, parent, linkOrdinal, linkLabel);
 			Resource section = createSection(linkOrdinal, text);
 			addSectionTopic(section, topic);
 			Elements subList = li.select("ul > li");
 			for (int i = 0; i < indent; i++) System.out.print(' ');
 			System.out.println(linkOrdinal + " " + linkLabel);
 			indent += 2;
-			makeNestedToc(topic, linkOrdinal, subList, content);
+			makeNestedToc(level + 1, topic, linkOrdinal, subList, content);
 			indent -= 2;
 		}
 	}

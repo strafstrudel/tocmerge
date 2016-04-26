@@ -5,6 +5,7 @@ wikimobio:Topic422.1.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic42 ;
         txtmod:topicLabel    "Purine base" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.1.1" .
 
 wikimobio:Section76  a         txtmod:Section ;
@@ -21,6 +22,7 @@ wikimobio:Section622.12.1.2
 wikimobio:Topic71  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic7 ;
         txtmod:topicLabel    "Transcription" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "71" .
 
 wikimobio:Section511.21.2.1
@@ -33,10 +35,12 @@ wikimobio:Topic1111.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic111 ;
         txtmod:topicLabel    "Classification of aminoacids" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1111.1" .
 
 wikimobio:Topic5  a          txtmod:Topic ;
         txtmod:topicLabel    "Replication of DNA and its repair" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5" .
 
 wikimobio:Section999.3
@@ -48,12 +52,14 @@ wikimobio:Section999.3
 wikimobio:Topic622.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic62 ;
         txtmod:topicLabel    "RNAs involved in protein synthesis" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.1" .
 
 wikimobio:Topic233.2.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic23 ;
         txtmod:topicLabel    "Role of Ran GTPase in nuclear transport during interphase" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "233.2.1" .
 
 wikimobio:Section107  a        txtmod:Section ;
@@ -75,21 +81,25 @@ wikimobio:Section46  a         txtmod:Section ;
 wikimobio:Topic41  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic4 ;
         txtmod:topicLabel    "DNA is a genetic material" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "41" .
 
 wikimobio:Topic111.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "Proteins" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "111.2" .
 
 wikimobio:Topic222.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic22 ;
         txtmod:topicLabel    "Chromosomes:" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "222.2" .
 
 wikimobio:Topic744.3  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic74 ;
         txtmod:topicLabel    "RNA polymerase III" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "744.3" .
 
 wikimobio:Section1177.1.1
@@ -101,6 +111,7 @@ wikimobio:Section1177.1.1
 wikimobio:Topic11  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1 ;
         txtmod:topicLabel    "Function and structure of Proteins" , "Macromolecules" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> , "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "11" .
 
 wikimobio:Section711  a        txtmod:Section ;
@@ -111,11 +122,13 @@ wikimobio:Section711  a        txtmod:Section ;
 wikimobio:Topic83  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic8 ;
         txtmod:topicLabel    "Summary of Khorana’s research" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "83" .
 
 wikimobio:Topic108  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic10 ;
         txtmod:topicLabel    "Drugs which inhibit protein synthesis" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "108" .
 
 wikimobio:Section933.1
@@ -143,6 +156,7 @@ wikimobio:Section422.12.1.3
 wikimobio:Topic53  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic5 ;
         txtmod:topicLabel    "Replication in prokaryote" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "53" .
 
 wikimobio:Section422.2
@@ -160,28 +174,33 @@ wikimobio:Section533.2
 wikimobio:Topic388.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic38 ;
         txtmod:topicLabel    "Functions of cyclin and CDKs" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "388.1" .
 
 wikimobio:Topic622.2.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic62 ;
         txtmod:topicLabel    "Small nuclear ribonucleic acid (snRNA)" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.2.1" .
 
 wikimobio:Topic422.12.1.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic422.1 ;
         txtmod:topicLabel    "Purine base" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.12.1.1" .
 
 wikimobio:Topic23  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic2 ;
         txtmod:topicLabel    "Nuclear import and export" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "23" .
 
 wikimobio:Topic712  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic7 ;
         txtmod:topicLabel    "RNA-editing" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "712" .
 
 wikimobio:Section1177.27.2.2
@@ -194,17 +213,20 @@ wikimobio:Topic422.22.2.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic422.2 ;
         txtmod:topicLabel    "Uracil" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.22.2.3" .
 
 wikimobio:Topic999.5  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic99 ;
         txtmod:topicLabel    "Reporter gene" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "999.5" .
 
 wikimobio:Topic1077.4
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic107 ;
         txtmod:topicLabel    "Quaternary structure of protein" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1077.4" .
 
 wikimobio:Section512  a        txtmod:Section ;
@@ -215,23 +237,27 @@ wikimobio:Section512  a        txtmod:Section ;
 wikimobio:Topic95  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic9 ;
         txtmod:topicLabel    "Trp operon" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "95" .
 
 wikimobio:Topic101010.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1010 ;
         txtmod:topicLabel    "SDS-Gel electrophoresis" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "101010.1" .
 
 wikimobio:Topic65  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic6 ;
         txtmod:topicLabel    "DNA vs RNA" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "65" .
 
 wikimobio:Topic1177.17.1.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1177.1 ;
         txtmod:topicLabel    "Lipoproteins" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.17.1.1" .
 
 wikimobio:Section622.22.2.3
@@ -262,11 +288,13 @@ wikimobio:Topic1177.27.2.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1177.2 ;
         txtmod:topicLabel    "Histones" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.27.2.3" .
 
 wikimobio:Topic35  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic3 ;
         txtmod:topicLabel    "G2 phase" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "35" .
 
 wikimobio:Section1177.17.1.7
@@ -278,12 +306,14 @@ wikimobio:Section1177.17.1.7
 wikimobio:Topic855.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic85 ;
         txtmod:topicLabel    "Termination or Stop codon" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "855.2" .
 
 wikimobio:Topic622.22.2.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic622.2 ;
         txtmod:topicLabel    "Small nuclear ribonucleic acid (snRNA)" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.22.2.1" .
 
 wikimobio:Section111.1.1
@@ -295,6 +325,7 @@ wikimobio:Section111.1.1
 wikimobio:Topic933.3  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic93 ;
         txtmod:topicLabel    "Riboswitch" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "933.3" .
 
 wikimobio:Section71  a         txtmod:Section ;
@@ -306,22 +337,26 @@ wikimobio:Topic1055.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic105 ;
         txtmod:topicLabel    "Polysomes" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1055.3" .
 
 wikimobio:Topic422.4  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic42 ;
         txtmod:topicLabel    "Nucleotide" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.4" .
 
 wikimobio:Topic533.4  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic53 ;
         txtmod:topicLabel    "Termination" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "533.4" .
 
 wikimobio:Topic41010.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic410 ;
         txtmod:topicLabel    "Dye-terminator sequencing" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "41010.1" .
 
 wikimobio:Section102  a        txtmod:Section ;
@@ -349,6 +384,7 @@ wikimobio:Section933.13.1.2
 wikimobio:Topic77  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic7 ;
         txtmod:topicLabel    "Elongation of RNA" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "77" .
 
 wikimobio:Section1077.4
@@ -361,6 +397,7 @@ wikimobio:Topic1177.1.4
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic117 ;
         txtmod:topicLabel    "Metalloprotein" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.1.4" .
 
 wikimobio:Section11  a         txtmod:Section ;
@@ -371,6 +408,7 @@ wikimobio:Section11  a         txtmod:Section ;
 wikimobio:Topic47  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic4 ;
         txtmod:topicLabel    "DNA-binding domains" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "47" .
 
 wikimobio:Section1177.1.7
@@ -382,16 +420,19 @@ wikimobio:Section1177.1.7
 wikimobio:Topic944.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic94 ;
         txtmod:topicLabel    "Lac repressor (LacI)" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "944.1" .
 
 wikimobio:Topic833.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic83 ;
         txtmod:topicLabel    "The table of Genetic Code" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "833.1" .
 
 wikimobio:Topic610  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic6 ;
         txtmod:topicLabel    "MicroRNA (miRNA)" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "610" .
 
 wikimobio:Section799.2
@@ -415,12 +456,14 @@ wikimobio:Section133.2
 wikimobio:Topic466.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic46 ;
         txtmod:topicLabel    "Histone DNA interaction" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "466.1" .
 
 wikimobio:Topic1066.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic106 ;
         txtmod:topicLabel    "Initiation" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1066.1" .
 
 wikimobio:Section83  a         txtmod:Section ;
@@ -437,16 +480,19 @@ wikimobio:Topic1033.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic103 ;
         txtmod:topicLabel    "Kozak consensus sequence" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1033.2" .
 
 wikimobio:Topic103  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic10 ;
         txtmod:topicLabel    "Ribosome" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "103" .
 
 wikimobio:Topic511.3  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic51 ;
         txtmod:topicLabel    "Classification of DNA polymerase" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "511.3" .
 
 wikimobio:Section114  a        txtmod:Section ;
@@ -469,6 +515,7 @@ wikimobio:Topic1177.2.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic117 ;
         txtmod:topicLabel    "Albumin" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.2.1" .
 
 wikimobio:Section23  a         txtmod:Section ;
@@ -491,17 +538,20 @@ wikimobio:Section1166.3
 wikimobio:Topic59  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic5 ;
         txtmod:topicLabel    "DNA repair" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "59" .
 
 wikimobio:Topic511.2.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic51 ;
         txtmod:topicLabel    "Okazaki fragment" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "511.2.1" .
 
 wikimobio:Topic411  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic4 ;
         txtmod:topicLabel    "Polymerase chain reaction" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "411" .
 
 wikimobio:Section111.1
@@ -530,22 +580,26 @@ wikimobio:Section744.2
 wikimobio:Topic599.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic59 ;
         txtmod:topicLabel    "Types of DNA damage" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "599.1" .
 
 wikimobio:Topic111.1.4
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "d.Polysaccharides" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "111.1.4" .
 
 wikimobio:Topic115  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "Protein structure determination" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "115" .
 
 wikimobio:Topic566.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic56 ;
         txtmod:topicLabel    "DNA Replication occurs during the S phase" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "566.2" .
 
 wikimobio:Section65  a         txtmod:Section ;
@@ -557,6 +611,7 @@ wikimobio:Topic1166.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic116 ;
         txtmod:topicLabel    "N-terminal amino acid analysis" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1166.2" .
 
 wikimobio:Section1177.3.1
@@ -569,6 +624,7 @@ wikimobio:Topic1177.17.1.7
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1177.1 ;
         txtmod:topicLabel    "Flavoproteins" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.17.1.7" .
 
 wikimobio:Section1066.1
@@ -580,6 +636,7 @@ wikimobio:Section1066.1
 wikimobio:Topic133.4  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic13 ;
         txtmod:topicLabel    "Origin of Eukaryotic organelles and endosymbiotic theory" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "133.4" .
 
 wikimobio:Section35  a         txtmod:Section ;
@@ -621,6 +678,7 @@ wikimobio:Topic422.1.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic42 ;
         txtmod:topicLabel    "Adenine" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.1.2" .
 
 wikimobio:Section233.23.2.1
@@ -649,12 +707,14 @@ wikimobio:Section622.12.1.3
 wikimobio:Topic72  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic7 ;
         txtmod:topicLabel    "Formation of Pre-initiation complex" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "72" .
 
 wikimobio:Topic1144.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic114 ;
         txtmod:topicLabel    "Primary structure of protein" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1144.1" .
 
 wikimobio:Section108  a        txtmod:Section ;
@@ -664,6 +724,7 @@ wikimobio:Section108  a        txtmod:Section ;
 
 wikimobio:Topic6  a          txtmod:Topic ;
         txtmod:topicLabel    "RNA:The ribonucleic acid" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "6" .
 
 wikimobio:Section999.4
@@ -676,11 +737,13 @@ wikimobio:Topic933.2.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic93 ;
         txtmod:topicLabel    "Corepressor" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "933.2.1" .
 
 wikimobio:Topic622.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic62 ;
         txtmod:topicLabel    "RNAs involved in post-transcriptional" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.2" .
 
 wikimobio:Section133.43.4.2
@@ -697,22 +760,26 @@ wikimobio:Section47  a         txtmod:Section ;
 wikimobio:Topic42  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic4 ;
         txtmod:topicLabel    "Structure of DNA" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "42" .
 
 wikimobio:Topic622.12.1.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic622.1 ;
         txtmod:topicLabel    "Messenger RNA" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.12.1.1" .
 
 wikimobio:Topic111.3  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "Lipids" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "111.3" .
 
 wikimobio:Topic222.3  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic22 ;
         txtmod:topicLabel    "Nucleolus" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "222.3" .
 
 wikimobio:Section1177.1.2
@@ -731,11 +798,13 @@ wikimobio:Topic111.11.1.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic111.1 ;
         txtmod:topicLabel    "a.Monosaccharides" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "111.11.1.1" .
 
 wikimobio:Topic12  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1 ;
         txtmod:topicLabel    "pH plays important role in living organism" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "12" .
 
 wikimobio:Section712  a        txtmod:Section ;
@@ -752,11 +821,13 @@ wikimobio:Section855.1
 wikimobio:Topic84  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic8 ;
         txtmod:topicLabel    "Degeneracy of the genetic code" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "84" .
 
 wikimobio:Topic109  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic10 ;
         txtmod:topicLabel    "Posttranslational modification of protein" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "109" .
 
 wikimobio:Section933.2
@@ -768,6 +839,7 @@ wikimobio:Section933.2
 wikimobio:Topic788.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic78 ;
         txtmod:topicLabel    "Rho-dependent termination" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "788.1" .
 
 wikimobio:Section59  a         txtmod:Section ;
@@ -778,11 +850,13 @@ wikimobio:Section59  a         txtmod:Section ;
 wikimobio:Topic54  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic5 ;
         txtmod:topicLabel    "DNA polymerase in prokaryote" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "54" .
 
 wikimobio:Topic233.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic23 ;
         txtmod:topicLabel    "Nuclear localization signal (NLS)" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "233.1" .
 
 wikimobio:Section422.3
@@ -807,12 +881,14 @@ wikimobio:Topic622.2.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic62 ;
         txtmod:topicLabel    "Small nucleolar RNAs (snoRNAs)" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.2.2" .
 
 wikimobio:Topic422.12.1.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic422.1 ;
         txtmod:topicLabel    "Adenine" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.12.1.2" .
 
 wikimobio:Section1177.27.2.3
@@ -830,23 +906,27 @@ wikimobio:Section233.2.1
 wikimobio:Topic96  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic9 ;
         txtmod:topicLabel    "Arabinose operon" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "96" .
 
 wikimobio:Topic101010.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1010 ;
         txtmod:topicLabel    "Setting of transfer in semi dry assembly" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "101010.2" .
 
 wikimobio:Topic1177.17.1.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1177.1 ;
         txtmod:topicLabel    "Glycoproteins" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.17.1.2" .
 
 wikimobio:Topic66  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic6 ;
         txtmod:topicLabel    "snRNA and snRNPs" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "66" .
 
 wikimobio:Section544.1
@@ -870,12 +950,14 @@ wikimobio:Section511.2
 wikimobio:Topic36  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic3 ;
         txtmod:topicLabel    "Mitosis" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "36" .
 
 wikimobio:Topic622.22.2.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic622.2 ;
         txtmod:topicLabel    "Small nucleolar RNAs (snoRNAs)" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.22.2.2" .
 
 wikimobio:Section111.1.2
@@ -896,12 +978,14 @@ wikimobio:Section72  a         txtmod:Section ;
 
 wikimobio:Topic1  a          txtmod:Topic ;
         txtmod:topicLabel    "Macromolecules and Cells" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1" .
 
 wikimobio:Topic41010.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic410 ;
         txtmod:topicLabel    "Challenges" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "41010.2" .
 
 wikimobio:Section1066.16.1.1
@@ -929,6 +1013,7 @@ wikimobio:Section933.1.2
 wikimobio:Topic78  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic7 ;
         txtmod:topicLabel    "Transcription termination" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "78" .
 
 wikimobio:Section622.2.1
@@ -947,6 +1032,7 @@ wikimobio:Topic1177.1.5
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic117 ;
         txtmod:topicLabel    "hemoproteins" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.1.5" .
 
 wikimobio:Section12  a         txtmod:Section ;
@@ -958,11 +1044,13 @@ wikimobio:Topic933.13.1.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic933.1 ;
         txtmod:topicLabel    "Prokaryotic promoters" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "933.13.1.1" .
 
 wikimobio:Topic48  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic4 ;
         txtmod:topicLabel    "DNA sequencing" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "48" .
 
 wikimobio:Section133.3
@@ -975,6 +1063,7 @@ wikimobio:Topic1066.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic106 ;
         txtmod:topicLabel    "Elongation" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1066.2" .
 
 wikimobio:Section84  a         txtmod:Section ;
@@ -985,6 +1074,7 @@ wikimobio:Section84  a         txtmod:Section ;
 wikimobio:Topic1010  a       txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic10 ;
         txtmod:topicLabel    "Identification of protein in laboratory" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1010" .
 
 wikimobio:Section411  a        txtmod:Section ;
@@ -995,6 +1085,7 @@ wikimobio:Section411  a        txtmod:Section ;
 wikimobio:Topic104  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic10 ;
         txtmod:topicLabel    "Synthesis of protein in Prokaryotes" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "104" .
 
 wikimobio:Section115  a        txtmod:Section ;
@@ -1011,6 +1102,7 @@ wikimobio:Topic1177.2.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic117 ;
         txtmod:topicLabel    "Globulin" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.2.2" .
 
 wikimobio:Section422.22.2.1
@@ -1023,6 +1115,7 @@ wikimobio:Topic71010.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic710 ;
         txtmod:topicLabel    "Spliceosome and its assembly" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "71010.1" .
 
 wikimobio:Section1166.4
@@ -1041,11 +1134,13 @@ wikimobio:Topic1044.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic104 ;
         txtmod:topicLabel    "Initiation" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1044.1" .
 
 wikimobio:Topic999.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic99 ;
         txtmod:topicLabel    "Vector" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "999.1" .
 
 wikimobio:Section96  a         txtmod:Section ;
@@ -1068,6 +1163,7 @@ wikimobio:Section111.2
 wikimobio:Topic922.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic92 ;
         txtmod:topicLabel    "One gene-one polypeptide" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "922.1" .
 
 wikimobio:Section222.2
@@ -1079,6 +1175,7 @@ wikimobio:Section222.2
 wikimobio:Topic91  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic9 ;
         txtmod:topicLabel    "Transcription" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "91" .
 
 wikimobio:Section744.3
@@ -1090,11 +1187,13 @@ wikimobio:Section744.3
 wikimobio:Topic599.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic59 ;
         txtmod:topicLabel    "Sources of damage" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "599.2" .
 
 wikimobio:Topic116  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "How to sequence a protein?" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "116" .
 
 wikimobio:Section66  a         txtmod:Section ;
@@ -1106,11 +1205,13 @@ wikimobio:Topic1166.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic116 ;
         txtmod:topicLabel    "C-terminal amino acid analysis" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1166.3" .
 
 wikimobio:Topic61  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic6 ;
         txtmod:topicLabel    "History of RNA" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "61" .
 
 wikimobio:Section1177.3.2
@@ -1139,6 +1240,7 @@ wikimobio:Section1177.2
 wikimobio:Topic31  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic3 ;
         txtmod:topicLabel    "Phases of cell division" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "31" .
 
 wikimobio:Section1177.17.1.3
@@ -1163,12 +1265,14 @@ wikimobio:Topic31010.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic310 ;
         txtmod:topicLabel    "The G1/S checkpoint" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "31010.1" .
 
 wikimobio:Topic422.1.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic42 ;
         txtmod:topicLabel    "Guanine" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.1.3" .
 
 wikimobio:Section388.1
@@ -1181,6 +1285,7 @@ wikimobio:Topic1177.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic117 ;
         txtmod:topicLabel    "Conjugated protein" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.1" .
 
 wikimobio:Section78  a         txtmod:Section ;
@@ -1192,11 +1297,13 @@ wikimobio:Topic1066.16.1.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1066.1 ;
         txtmod:topicLabel    "The cap-independent initiation" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1066.16.1.1" .
 
 wikimobio:Topic73  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic7 ;
         txtmod:topicLabel    "RNA polymerase" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "73" .
 
 wikimobio:Section1155.1
@@ -1209,10 +1316,12 @@ wikimobio:Topic1144.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic114 ;
         txtmod:topicLabel    "Secondary structure of protein" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1144.2" .
 
 wikimobio:Topic7  a          txtmod:Topic ;
         txtmod:topicLabel    "Transcription of RNA and its modification" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "7" .
 
 wikimobio:Section109  a        txtmod:Section ;
@@ -1229,6 +1338,7 @@ wikimobio:Section999.5
 wikimobio:Topic622.3  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic62 ;
         txtmod:topicLabel    "Small interfering RNA (siRNA)" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.3" .
 
 wikimobio:Section1044.1
@@ -1245,28 +1355,33 @@ wikimobio:Section48  a         txtmod:Section ;
 wikimobio:Topic43  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic4 ;
         txtmod:topicLabel    "Forms of DNA" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "43" .
 
 wikimobio:Topic622.12.1.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic622.1 ;
         txtmod:topicLabel    "Ribosomal RNA" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.12.1.2" .
 
 wikimobio:Topic111.4  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "Water" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "111.4" .
 
 wikimobio:Topic511.21.2.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic511.2 ;
         txtmod:topicLabel    "Okazaki fragment" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "511.21.2.1" .
 
 wikimobio:Topic222.4  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic22 ;
         txtmod:topicLabel    "Splicing speckles or SC35 speckles" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "222.4" .
 
 wikimobio:Section1177.1.3
@@ -1279,12 +1394,14 @@ wikimobio:Topic111.11.1.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic111.1 ;
         txtmod:topicLabel    "b.Disaccharide" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "111.11.1.2" .
 
 wikimobio:Topic133.43.4.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic133.4 ;
         txtmod:topicLabel    "Eukaryotic organelles" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "133.43.4.1" .
 
 wikimobio:Section544.14.1.1
@@ -1296,11 +1413,13 @@ wikimobio:Section544.14.1.1
 wikimobio:Topic13  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1 ;
         txtmod:topicLabel    "Cell The basic unit of life" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "13" .
 
 wikimobio:Topic310  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic3 ;
         txtmod:topicLabel    "Cell cycle checkpoints" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "310" .
 
 wikimobio:Section855.2
@@ -1312,12 +1431,14 @@ wikimobio:Section855.2
 wikimobio:Topic85  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic8 ;
         txtmod:topicLabel    "Initiation and Termination codon" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "85" .
 
 wikimobio:Topic1122.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic112 ;
         txtmod:topicLabel    "β-peptides" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1122.1" .
 
 wikimobio:Section933.3
@@ -1329,16 +1450,19 @@ wikimobio:Section933.3
 wikimobio:Topic788.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic78 ;
         txtmod:topicLabel    "Rho-independent termination" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "788.2" .
 
 wikimobio:Topic233.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic23 ;
         txtmod:topicLabel    "Nuclear export signal (NES)" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "233.2" .
 
 wikimobio:Topic55  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic5 ;
         txtmod:topicLabel    "Helicases and Topoisomerase" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "55" .
 
 wikimobio:Section422.4
@@ -1369,12 +1493,14 @@ wikimobio:Topic622.2.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic62 ;
         txtmod:topicLabel    "Ribonuclease P (RNase P)" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.2.3" .
 
 wikimobio:Topic422.12.1.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic422.1 ;
         txtmod:topicLabel    "Guanine" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.12.1.3" .
 
 wikimobio:Section91  a         txtmod:Section ;
@@ -1386,6 +1512,7 @@ wikimobio:Topic133.4.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic13 ;
         txtmod:topicLabel    "Eukaryotic organelles" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "133.4.1" .
 
 wikimobio:Section744.24.2.1
@@ -1397,6 +1524,7 @@ wikimobio:Section744.24.2.1
 wikimobio:Topic111  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "Amino acids" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "111" .
 
 wikimobio:Section61  a         txtmod:Section ;
@@ -1407,6 +1535,7 @@ wikimobio:Section61  a         txtmod:Section ;
 wikimobio:Topic97  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic9 ;
         txtmod:topicLabel    "Housekeeping gene" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "97" .
 
 wikimobio:Section833.1
@@ -1435,17 +1564,20 @@ wikimobio:Section31  a         txtmod:Section ;
 wikimobio:Topic766.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic76 ;
         txtmod:topicLabel    "Transcription Factors" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "766.1" .
 
 wikimobio:Topic67  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic6 ;
         txtmod:topicLabel    "RNA as an enzyme" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "67" .
 
 wikimobio:Topic1177.17.1.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1177.1 ;
         txtmod:topicLabel    "phosphoproteins" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.17.1.3" .
 
 wikimobio:Section511.3
@@ -1457,12 +1589,14 @@ wikimobio:Section511.3
 wikimobio:Topic37  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic3 ;
         txtmod:topicLabel    "Cyclins" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "37" .
 
 wikimobio:Topic622.22.2.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic622.2 ;
         txtmod:topicLabel    "Ribonuclease P (RNase P)" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.22.2.3" .
 
 wikimobio:Section111.1.3
@@ -1478,12 +1612,14 @@ wikimobio:Section73  a         txtmod:Section ;
 
 wikimobio:Topic2  a          txtmod:Topic ;
         txtmod:topicLabel    "Nucleus" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2" .
 
 wikimobio:Topic41010.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic410 ;
         txtmod:topicLabel    "Automation and sample preparation" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "41010.3" .
 
 wikimobio:Section104  a        txtmod:Section ;
@@ -1505,6 +1641,7 @@ wikimobio:Section1066.16.1.2
 wikimobio:Topic79  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic7 ;
         txtmod:topicLabel    "mRNA and its modification" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "79" .
 
 wikimobio:Section622.2.2
@@ -1529,6 +1666,7 @@ wikimobio:Topic1177.1.6
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic117 ;
         txtmod:topicLabel    "Opsins" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.1.6" .
 
 wikimobio:Section13  a         txtmod:Section ;
@@ -1540,17 +1678,20 @@ wikimobio:Topic933.13.1.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic933.1 ;
         txtmod:topicLabel    "Eukaryotic promoters" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "933.13.1.2" .
 
 wikimobio:Topic49  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic4 ;
         txtmod:topicLabel    "Maxam and Gilbert method" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "49" .
 
 wikimobio:Topic622.1.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic62 ;
         txtmod:topicLabel    "Messenger RNA" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.1.1" .
 
 wikimobio:Section133.4
@@ -1563,6 +1704,7 @@ wikimobio:Topic1066.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic106 ;
         txtmod:topicLabel    "Termination" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1066.3" .
 
 wikimobio:Section85  a         txtmod:Section ;
@@ -1573,6 +1715,7 @@ wikimobio:Section85  a         txtmod:Section ;
 wikimobio:Topic105  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic10 ;
         txtmod:topicLabel    "Elongation" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "105" .
 
 wikimobio:Section116  a        txtmod:Section ;
@@ -1589,6 +1732,7 @@ wikimobio:Topic1177.2.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic117 ;
         txtmod:topicLabel    "Histones" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.2.3" .
 
 wikimobio:Section422.22.2.2
@@ -1613,11 +1757,13 @@ wikimobio:Topic1077.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic107 ;
         txtmod:topicLabel    "Primary structure of protein" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1077.1" .
 
 wikimobio:Topic999.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic99 ;
         txtmod:topicLabel    "PCR" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "999.2" .
 
 wikimobio:Section41010.2
@@ -1646,16 +1792,19 @@ wikimobio:Section222.3
 wikimobio:Topic92  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic9 ;
         txtmod:topicLabel    "One gene-one enzyme hypothesis" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "92" .
 
 wikimobio:Topic599.3  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic59 ;
         txtmod:topicLabel    "Types of mutation" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "599.3" .
 
 wikimobio:Topic117  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "Types of protein" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "117" .
 
 wikimobio:Section67  a         txtmod:Section ;
@@ -1667,11 +1816,13 @@ wikimobio:Topic1166.4
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic116 ;
         txtmod:topicLabel    "Mass spectrometry" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1166.4" .
 
 wikimobio:Topic62  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic6 ;
         txtmod:topicLabel    "Types of RNA" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "62" .
 
 wikimobio:Section1066.3
@@ -1694,6 +1845,7 @@ wikimobio:Section1177.3
 wikimobio:Topic32  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic3 ;
         txtmod:topicLabel    "G0 phase" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "32" .
 
 wikimobio:Section1177.17.1.4
@@ -1718,11 +1870,13 @@ wikimobio:Topic31010.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic310 ;
         txtmod:topicLabel    "The G2/M checkpoint" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "31010.2" .
 
 wikimobio:Topic510  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic5 ;
         txtmod:topicLabel    "DNA repair and disorders" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "510" .
 
 wikimobio:Section788.1
@@ -1740,11 +1894,13 @@ wikimobio:Section233.1
 wikimobio:Topic422.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic42 ;
         txtmod:topicLabel    "Base pairing Of DNA" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.1" .
 
 wikimobio:Topic533.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic53 ;
         txtmod:topicLabel    "Primase" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "533.1" .
 
 wikimobio:Section310  a        txtmod:Section ;
@@ -1756,6 +1912,7 @@ wikimobio:Topic1177.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic117 ;
         txtmod:topicLabel    "Simple proteins" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.2" .
 
 wikimobio:Section79  a         txtmod:Section ;
@@ -1767,27 +1924,32 @@ wikimobio:Topic1066.16.1.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1066.1 ;
         txtmod:topicLabel    "Cap-dependent initiation" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1066.16.1.2" .
 
 wikimobio:Topic74  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic7 ;
         txtmod:topicLabel    "RNA polymerase in eukaryotes" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "74" .
 
 wikimobio:Topic233.23.2.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic233.2 ;
         txtmod:topicLabel    "Role of Ran GTPase in nuclear transport during interphase" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "233.23.2.1" .
 
 wikimobio:Topic1144.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic114 ;
         txtmod:topicLabel    "Tertiary structure of protein" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1144.3" .
 
 wikimobio:Topic8  a          txtmod:Topic ;
         txtmod:topicLabel    "Genetic Code" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8" .
 
 wikimobio:Section933.23.2.1
@@ -1806,11 +1968,13 @@ wikimobio:Topic1177.1.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic117 ;
         txtmod:topicLabel    "Lipoproteins" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.1.1" .
 
 wikimobio:Topic111.5  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "Noncovalent bond" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "111.5" .
 
 wikimobio:Section49  a         txtmod:Section ;
@@ -1822,11 +1986,13 @@ wikimobio:Topic622.12.1.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic622.1 ;
         txtmod:topicLabel    "tRNA" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.12.1.3" .
 
 wikimobio:Topic44  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic4 ;
         txtmod:topicLabel    "Noncoding genomic DNA" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "44" .
 
 wikimobio:Section1155.2
@@ -1838,6 +2004,7 @@ wikimobio:Section1155.2
 wikimobio:Topic222.5  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic22 ;
         txtmod:topicLabel    "Cajal bodies or coiled bodies" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "222.5" .
 
 wikimobio:Section1177.1.4
@@ -1850,34 +2017,40 @@ wikimobio:Topic111.11.1.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic111.1 ;
         txtmod:topicLabel    "c.Oligosaccharide" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "111.11.1.3" .
 
 wikimobio:Topic133.43.4.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic133.4 ;
         txtmod:topicLabel    "Prokaryotic organelles" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "133.43.4.2" .
 
 wikimobio:Topic422.2.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic42 ;
         txtmod:topicLabel    "Cytosine" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.2.1" .
 
 wikimobio:Topic14  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1 ;
         txtmod:topicLabel    "Macromolecules which are present in the cell membrane" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "14" .
 
 wikimobio:Topic311  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic3 ;
         txtmod:topicLabel    "Metaphase-anaphase checkpoint" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "311" .
 
 wikimobio:Topic544.1.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic54 ;
         txtmod:topicLabel    "Klenow fragment" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "544.1.1" .
 
 wikimobio:Section111  a        txtmod:Section ;
@@ -1895,6 +2068,7 @@ wikimobio:Topic1155.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic115 ;
         txtmod:topicLabel    "X-ray crystallography" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1155.1" .
 
 wikimobio:Section31010.1
@@ -1906,6 +2080,7 @@ wikimobio:Section31010.1
 wikimobio:Topic56  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic5 ;
         txtmod:topicLabel    "Replication in Eukaryote" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "56" .
 
 wikimobio:Section1177.2.1
@@ -1930,6 +2105,7 @@ wikimobio:Topic622.2.4
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic62 ;
         txtmod:topicLabel    "Telomerase RNA" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.2.4" .
 
 wikimobio:Section92  a         txtmod:Section ;
@@ -1941,23 +2117,27 @@ wikimobio:Topic1177.37.3.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1177.3 ;
         txtmod:topicLabel    "Peptones" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.37.3.1" .
 
 wikimobio:Topic133.4.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic13 ;
         txtmod:topicLabel    "Prokaryotic organelles" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "133.4.2" .
 
 wikimobio:Topic111.1.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "a.Monosaccharides" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "111.1.1" .
 
 wikimobio:Topic112  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "Peptide bond" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "112" .
 
 wikimobio:Section62  a         txtmod:Section ;
@@ -1968,16 +2148,19 @@ wikimobio:Section62  a         txtmod:Section ;
 wikimobio:Topic98  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic9 ;
         txtmod:topicLabel    "Regulation of gene expression" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "98" .
 
 wikimobio:Topic799.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic79 ;
         txtmod:topicLabel    "Capping of mRNA" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "799.1" .
 
 wikimobio:Topic133.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic13 ;
         txtmod:topicLabel    "Prokaryotes" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "133.1" .
 
 wikimobio:Section32  a         txtmod:Section ;
@@ -1989,17 +2172,20 @@ wikimobio:Topic933.1.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic93 ;
         txtmod:topicLabel    "Prokaryotic promoters" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "933.1.1" .
 
 wikimobio:Topic68  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic6 ;
         txtmod:topicLabel    "Ribonuclease" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "68" .
 
 wikimobio:Topic1177.17.1.4
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1177.1 ;
         txtmod:topicLabel    "Metalloprotein" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.17.1.4" .
 
 wikimobio:Section511.2.1
@@ -2011,12 +2197,14 @@ wikimobio:Section511.2.1
 wikimobio:Topic38  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic3 ;
         txtmod:topicLabel    "Cyclin dependent kinases (CDKs)" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "38" .
 
 wikimobio:Topic622.22.2.4
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic622.2 ;
         txtmod:topicLabel    "Telomerase RNA" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.22.2.4" .
 
 wikimobio:Section111.1.4
@@ -2029,6 +2217,7 @@ wikimobio:Topic744.2.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic74 ;
         txtmod:topicLabel    "C-terminal domain (CTD) of RNA Pol II" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "744.2.1" .
 
 wikimobio:Section74  a         txtmod:Section ;
@@ -2038,6 +2227,7 @@ wikimobio:Section74  a         txtmod:Section ;
 
 wikimobio:Topic3  a          txtmod:Topic ;
         txtmod:topicLabel    "Cell Cycle" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3" .
 
 wikimobio:Section999.1
@@ -2066,6 +2256,7 @@ wikimobio:Topic1066.1.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic106 ;
         txtmod:topicLabel    "The cap-independent initiation" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1066.1.1" .
 
 wikimobio:Section622.2.3
@@ -2083,6 +2274,7 @@ wikimobio:Section599.2
 wikimobio:Topic744.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic74 ;
         txtmod:topicLabel    "RNA polymerase I" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "744.1" .
 
 wikimobio:Section133.4.1
@@ -2094,12 +2286,14 @@ wikimobio:Section133.4.1
 wikimobio:Topic377.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic37 ;
         txtmod:topicLabel    "Types of Cyclins" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "377.1" .
 
 wikimobio:Topic1177.1.7
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic117 ;
         txtmod:topicLabel    "Flavoproteins" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.1.7" .
 
 wikimobio:Section14  a         txtmod:Section ;
@@ -2111,16 +2305,19 @@ wikimobio:Topic622.1.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic62 ;
         txtmod:topicLabel    "Ribosomal RNA" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.1.2" .
 
 wikimobio:Topic81  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic8 ;
         txtmod:topicLabel    "Introduction" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "81" .
 
 wikimobio:Topic106  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic10 ;
         txtmod:topicLabel    "Synthesis of protein in Eukaryotes" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "106" .
 
 wikimobio:Section933.2.1
@@ -2148,6 +2345,7 @@ wikimobio:Section422.12.1.1
 wikimobio:Topic51  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic5 ;
         txtmod:topicLabel    "Replication" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "51" .
 
 wikimobio:Section422.22.2.3
@@ -2159,11 +2357,13 @@ wikimobio:Section422.22.2.3
 wikimobio:Topic21  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic2 ;
         txtmod:topicLabel    "Nucleus" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "21" .
 
 wikimobio:Topic710  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic7 ;
         txtmod:topicLabel    "Splicing of RNA" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "710" .
 
 wikimobio:Section1177.37.3.2
@@ -2176,6 +2376,7 @@ wikimobio:Topic422.22.2.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic422.2 ;
         txtmod:topicLabel    "Cytosine" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.22.2.1" .
 
 wikimobio:Section622.3
@@ -2188,11 +2389,13 @@ wikimobio:Topic1077.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic107 ;
         txtmod:topicLabel    "Secondary structure of protein" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1077.2" .
 
 wikimobio:Topic999.3  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic99 ;
         txtmod:topicLabel    "Restriction enzymes" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "999.3" .
 
 wikimobio:Section98  a         txtmod:Section ;
@@ -2226,11 +2429,13 @@ wikimobio:Section222.4
 wikimobio:Topic93  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic9 ;
         txtmod:topicLabel    "Operon" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "93" .
 
 wikimobio:Topic118  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "Protein data bank or PDB" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "118" .
 
 wikimobio:Section68  a         txtmod:Section ;
@@ -2241,12 +2446,14 @@ wikimobio:Section68  a         txtmod:Section ;
 wikimobio:Topic63  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic6 ;
         txtmod:topicLabel    "Structure of RNA" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "63" .
 
 wikimobio:Topic1177.3.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic117 ;
         txtmod:topicLabel    "Peptones" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.3.1" .
 
 wikimobio:Section622.22.2.1
@@ -2265,6 +2472,7 @@ wikimobio:Topic1177.27.2.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1177.2 ;
         txtmod:topicLabel    "Albumin" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.27.2.1" .
 
 wikimobio:Section38  a         txtmod:Section ;
@@ -2275,6 +2483,7 @@ wikimobio:Section38  a         txtmod:Section ;
 wikimobio:Topic33  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic3 ;
         txtmod:topicLabel    "G1 phase" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "33" .
 
 wikimobio:Section1177.17.1.5
@@ -2286,6 +2495,7 @@ wikimobio:Section1177.17.1.5
 wikimobio:Topic511  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic5 ;
         txtmod:topicLabel    "Human Chromosome and Chromosomal aberrations" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "511" .
 
 wikimobio:Section788.2
@@ -2297,6 +2507,7 @@ wikimobio:Section788.2
 wikimobio:Topic933.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic93 ;
         txtmod:topicLabel    "Structure of an operon:" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "933.1" .
 
 wikimobio:Section233.2
@@ -2309,16 +2520,19 @@ wikimobio:Topic1055.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic105 ;
         txtmod:topicLabel    "Termination" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1055.1" .
 
 wikimobio:Topic422.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic42 ;
         txtmod:topicLabel    "Pyrimidine base" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.2" .
 
 wikimobio:Topic533.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic53 ;
         txtmod:topicLabel    "Primosome" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "533.2" .
 
 wikimobio:Section311  a        txtmod:Section ;
@@ -2330,21 +2544,25 @@ wikimobio:Topic1177.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic117 ;
         txtmod:topicLabel    "Derived protein" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.3" .
 
 wikimobio:Topic75  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic7 ;
         txtmod:topicLabel    "RNA polymerase IV" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "75" .
 
 wikimobio:Topic1144.4
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic114 ;
         txtmod:topicLabel    "Quaternary structure of proteins" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1144.4" .
 
 wikimobio:Topic9  a          txtmod:Topic ;
         txtmod:topicLabel    "Gene Expression" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "9" .
 
 wikimobio:Section1077.2
@@ -2357,11 +2575,13 @@ wikimobio:Topic1177.1.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic117 ;
         txtmod:topicLabel    "Glycoproteins" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.1.2" .
 
 wikimobio:Topic45  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic4 ;
         txtmod:topicLabel    "Coiling of DNA" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "45" .
 
 wikimobio:Section1177.1.5
@@ -2374,12 +2594,14 @@ wikimobio:Topic111.11.1.4
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic111.1 ;
         txtmod:topicLabel    "d.Polysaccharides" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "111.11.1.4" .
 
 wikimobio:Topic422.2.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic42 ;
         txtmod:topicLabel    "Thymine" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.2.2" .
 
 wikimobio:Section81  a         txtmod:Section ;
@@ -2396,11 +2618,13 @@ wikimobio:Section766.1
 wikimobio:Topic312  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic3 ;
         txtmod:topicLabel    "Cell division in fission yeast" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "312" .
 
 wikimobio:Topic101  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic10 ;
         txtmod:topicLabel    "Translation: The Synthesis of protein" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "101" .
 
 wikimobio:Section112  a        txtmod:Section ;
@@ -2411,17 +2635,20 @@ wikimobio:Section112  a        txtmod:Section ;
 wikimobio:Topic699.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic69 ;
         txtmod:topicLabel    "RNAi and Disease control" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "699.1" .
 
 wikimobio:Topic511.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic51 ;
         txtmod:topicLabel    "Leading strand" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "511.1" .
 
 wikimobio:Topic544.14.1.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic544.1 ;
         txtmod:topicLabel    "Klenow fragment" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "544.14.1.1" .
 
 wikimobio:Section51  a         txtmod:Section ;
@@ -2439,6 +2666,7 @@ wikimobio:Topic1155.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic115 ;
         txtmod:topicLabel    "Nuclear magnetic resonance spectroscopy or NMR" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1155.2" .
 
 wikimobio:Section101010.1
@@ -2473,6 +2701,7 @@ wikimobio:Section1166.1
 wikimobio:Topic57  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic5 ;
         txtmod:topicLabel    "Replication in mitochondria" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "57" .
 
 wikimobio:Section1177.2.2
@@ -2496,17 +2725,20 @@ wikimobio:Topic1177.37.3.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1177.3 ;
         txtmod:topicLabel    "Proteases" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.37.3.2" .
 
 wikimobio:Topic111.1.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "b.Disaccharide" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "111.1.2" .
 
 wikimobio:Topic113  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "Enzymes" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "113" .
 
 wikimobio:Section63  a         txtmod:Section ;
@@ -2517,18 +2749,21 @@ wikimobio:Section63  a         txtmod:Section ;
 wikimobio:Topic99  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic9 ;
         txtmod:topicLabel    "Tools for studying gene expression" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "99" .
 
 wikimobio:Topic744.24.2.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic744.2 ;
         txtmod:topicLabel    "C-terminal domain (CTD) of RNA Pol II" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "744.24.2.1" .
 
 wikimobio:Topic1133.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic113 ;
         txtmod:topicLabel    "Classification of enzymes" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1133.1" .
 
 wikimobio:Section71010.1
@@ -2540,11 +2775,13 @@ wikimobio:Section71010.1
 wikimobio:Topic799.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic79 ;
         txtmod:topicLabel    "Polyadenylation of mRNA" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "799.2" .
 
 wikimobio:Topic133.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic13 ;
         txtmod:topicLabel    "Eukaryotic cell" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "133.2" .
 
 wikimobio:Section33  a         txtmod:Section ;
@@ -2556,6 +2793,7 @@ wikimobio:Topic933.1.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic93 ;
         txtmod:topicLabel    "Eukaryotic promoters" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "933.1.2" .
 
 wikimobio:Section422.2.1
@@ -2567,12 +2805,14 @@ wikimobio:Section422.2.1
 wikimobio:Topic69  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic6 ;
         txtmod:topicLabel    "RNAi" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "69" .
 
 wikimobio:Topic1177.17.1.5
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1177.1 ;
         txtmod:topicLabel    "hemoproteins" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.17.1.5" .
 
 wikimobio:Section1111.1
@@ -2584,6 +2824,7 @@ wikimobio:Section1111.1
 wikimobio:Topic39  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic3 ;
         txtmod:topicLabel    "Disregulation of cell cycle" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "39" .
 
 wikimobio:Section544.1.1
@@ -2605,6 +2846,7 @@ wikimobio:Section622.12.1.1
 
 wikimobio:Topic4  a          txtmod:Topic ;
         txtmod:topicLabel    "DNA the unit of life" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4" .
 
 wikimobio:Section999.2
@@ -2617,6 +2859,7 @@ wikimobio:Topic1066.1.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic106 ;
         txtmod:topicLabel    "Cap-dependent initiation" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1066.1.2" .
 
 wikimobio:Section106  a        txtmod:Section ;
@@ -2632,11 +2875,13 @@ wikimobio:Section45  a         txtmod:Section ;
 wikimobio:Topic222.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic22 ;
         txtmod:topicLabel    "The nucleoskeleton" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "222.1" .
 
 wikimobio:Topic111.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "Carbohydrates" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "111.1" .
 
 wikimobio:Section622.2.4
@@ -2654,6 +2899,7 @@ wikimobio:Section599.3
 wikimobio:Topic744.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic74 ;
         txtmod:topicLabel    "RNA polymerase II" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "744.2" .
 
 wikimobio:Section133.4.2
@@ -2664,12 +2910,14 @@ wikimobio:Section133.4.2
 
 wikimobio:Topic10  a         txtmod:Topic ;
         txtmod:topicLabel    "Protein synthesis" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "10" .
 
 wikimobio:Topic622.1.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic62 ;
         txtmod:topicLabel    "tRNA" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "622.1.3" .
 
 wikimobio:Section710  a        txtmod:Section ;
@@ -2680,11 +2928,13 @@ wikimobio:Section710  a        txtmod:Section ;
 wikimobio:Topic82  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic8 ;
         txtmod:topicLabel    "Origin of genetic code" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "82" .
 
 wikimobio:Topic107  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic10 ;
         txtmod:topicLabel    "Structure of protein" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "107" .
 
 wikimobio:Section118  a        txtmod:Section ;
@@ -2706,6 +2956,7 @@ wikimobio:Section422.12.1.2
 wikimobio:Topic52  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic5 ;
         txtmod:topicLabel    "Replication is semiconservative" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "52" .
 
 wikimobio:Section422.1
@@ -2723,16 +2974,19 @@ wikimobio:Section533.1
 wikimobio:Topic722.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic72 ;
         txtmod:topicLabel    "TATA-binding protein and Transcription factor II D" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "722.1" .
 
 wikimobio:Topic22  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic2 ;
         txtmod:topicLabel    "Components of NUCLEUS" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "22" .
 
 wikimobio:Topic711  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic7 ;
         txtmod:topicLabel    "Self splicing" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "711" .
 
 wikimobio:Section1177.27.2.1
@@ -2745,17 +2999,20 @@ wikimobio:Topic422.22.2.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic422.2 ;
         txtmod:topicLabel    "Thymine" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.22.2.2" .
 
 wikimobio:Topic1077.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic107 ;
         txtmod:topicLabel    "Tertiary structure of protein" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1077.3" .
 
 wikimobio:Topic999.4  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic99 ;
         txtmod:topicLabel    "Cloning of gene and its expression" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "999.4" .
 
 wikimobio:Section99  a         txtmod:Section ;
@@ -2783,11 +3040,13 @@ wikimobio:Section222.5
 wikimobio:Topic94  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic9 ;
         txtmod:topicLabel    "Lac operon" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "94" .
 
 wikimobio:Topic119  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "Insulin" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "119" .
 
 wikimobio:Section69  a         txtmod:Section ;
@@ -2798,12 +3057,14 @@ wikimobio:Section69  a         txtmod:Section ;
 wikimobio:Topic64  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic6 ;
         txtmod:topicLabel    "RNA base" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "64" .
 
 wikimobio:Topic1177.3.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic117 ;
         txtmod:topicLabel    "Proteases" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.3.2" .
 
 wikimobio:Section622.1.2
@@ -2822,6 +3083,7 @@ wikimobio:Topic1177.27.2.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1177.2 ;
         txtmod:topicLabel    "Globulin" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.27.2.2" .
 
 wikimobio:Section39  a         txtmod:Section ;
@@ -2832,6 +3094,7 @@ wikimobio:Section39  a         txtmod:Section ;
 wikimobio:Topic34  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic3 ;
         txtmod:topicLabel    "S phase" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "34" .
 
 wikimobio:Section1177.17.1.6
@@ -2843,27 +3106,32 @@ wikimobio:Section1177.17.1.6
 wikimobio:Topic855.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic85 ;
         txtmod:topicLabel    "Initiation or Start Codon" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "855.1" .
 
 wikimobio:Topic512  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic5 ;
         txtmod:topicLabel    "DNA Recombination" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "512" .
 
 wikimobio:Topic933.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic93 ;
         txtmod:topicLabel    "Enhancer" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "933.2" .
 
 wikimobio:Topic1055.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic105 ;
         txtmod:topicLabel    "Recycling" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1055.2" .
 
 wikimobio:Topic422.3  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic42 ;
         txtmod:topicLabel    "Nucleosides" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.3" .
 
 wikimobio:Section312  a        txtmod:Section ;
@@ -2874,6 +3142,7 @@ wikimobio:Section312  a        txtmod:Section ;
 wikimobio:Topic533.3  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic53 ;
         txtmod:topicLabel    "Elongation of DNA strand" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "533.3" .
 
 wikimobio:Section101  a        txtmod:Section ;
@@ -2890,6 +3159,7 @@ wikimobio:Section933.13.1.1
 wikimobio:Topic76  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic7 ;
         txtmod:topicLabel    "Initiation of transcription" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "76" .
 
 wikimobio:Section1077.3
@@ -2902,11 +3172,13 @@ wikimobio:Topic1177.1.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic117 ;
         txtmod:topicLabel    "phosphoproteins" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.1.3" .
 
 wikimobio:Topic46  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic4 ;
         txtmod:topicLabel    "Histones: The DNA binding protein" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "46" .
 
 wikimobio:Section1177.1.6
@@ -2919,12 +3191,14 @@ wikimobio:Topic933.23.2.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic933.2 ;
         txtmod:topicLabel    "Corepressor" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "933.23.2.1" .
 
 wikimobio:Topic71212.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic712 ;
         txtmod:topicLabel    "Editing by insertion or deletion" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "71212.1" .
 
 wikimobio:Section799.1
@@ -2943,6 +3217,7 @@ wikimobio:Topic422.2.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic42 ;
         txtmod:topicLabel    "Uracil" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "422.2.3" .
 
 wikimobio:Section82  a         txtmod:Section ;
@@ -2953,22 +3228,26 @@ wikimobio:Section82  a         txtmod:Section ;
 wikimobio:Topic544.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic54 ;
         txtmod:topicLabel    "DNA Polymerase I or Pol I" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "544.1" .
 
 wikimobio:Topic1033.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic103 ;
         txtmod:topicLabel    "Structure of the Ribosome" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1033.1" .
 
 wikimobio:Topic102  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic10 ;
         txtmod:topicLabel    "tRNA (Transfer RNA)" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "102" .
 
 wikimobio:Topic511.2  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic51 ;
         txtmod:topicLabel    "Lagging strand" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "511.2" .
 
 wikimobio:Section113  a        txtmod:Section ;
@@ -3013,6 +3292,7 @@ wikimobio:Section1166.2
 wikimobio:Topic58  a         txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic5 ;
         txtmod:topicLabel    "C0t values" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "58" .
 
 wikimobio:Section1177.2.3
@@ -3024,6 +3304,7 @@ wikimobio:Section1177.2.3
 wikimobio:Topic410  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic4 ;
         txtmod:topicLabel    "Dideoxynucleotide Chain-termination methods" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "410" .
 
 wikimobio:Section94  a         txtmod:Section ;
@@ -3047,16 +3328,19 @@ wikimobio:Topic111.1.3
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "c.Oligosaccharide" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "111.1.3" .
 
 wikimobio:Topic114  a        txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic11 ;
         txtmod:topicLabel    "Structure of protein" ;
+        txtmod:topicLevel    "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "114" .
 
 wikimobio:Topic566.1  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic56 ;
         txtmod:topicLabel    "Eukaryotic DNA polymerase" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "566.1" .
 
 wikimobio:Section1010
@@ -3074,17 +3358,20 @@ wikimobio:Topic1166.1
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic116 ;
         txtmod:topicLabel    "Edman degradation" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1166.1" .
 
 wikimobio:Topic1133.2
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic113 ;
         txtmod:topicLabel    "Oxidoreductase" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1133.2" .
 
 wikimobio:Topic133.3  a      txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic13 ;
         txtmod:topicLabel    "Plant cell is different from animal cell" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "133.3" .
 
 wikimobio:Section34  a         txtmod:Section ;
@@ -3096,6 +3383,7 @@ wikimobio:Topic1177.17.1.6
         a                    txtmod:Topic ;
         txtmod:subTopicOf    wikimobio:Topic1177.1 ;
         txtmod:topicLabel    "Opsins" ;
+        txtmod:topicLevel    "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1177.17.1.6" .
 
 wikimobio:Section1177.17.1.1

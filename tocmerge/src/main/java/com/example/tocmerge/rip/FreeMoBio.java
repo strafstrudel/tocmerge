@@ -32,7 +32,7 @@ public class FreeMoBio extends TextSourceBaseImpl implements TextSource {
 				String l2TOCUrl = l1Link.attr("abs:href");
 				String l1Ordinal = String.format("%s", l1Index);
 				String l1Label = l1Link.text();
-				Resource l1Topic = createTopic(l1Ordinal, l1Label);
+				Resource l1Topic = createTopic(1, l1Ordinal, l1Label);
 				System.out.println(l1Ordinal + " " + l1Label);
 				l1Index++;
 				Resource l2Topic = null;
@@ -47,7 +47,7 @@ public class FreeMoBio extends TextSourceBaseImpl implements TextSource {
 					if (l2Link.parent().tagName().equals("p")) {
 						l2Ordinal = String.format("%c", 'A' + l2Index);
 						l2Label = l2Link.text();
-						l2Topic = createTopic(l1Topic, l1Ordinal + l2Ordinal, l2Label);
+						l2Topic = createTopic(1, l1Topic, l1Ordinal + l2Ordinal, l2Label);
 						l3Index = 1;
 						String l2Url = l2Link.attr("abs:href");
 						String l2Text = getDocumentText(l2Url);
@@ -59,7 +59,7 @@ public class FreeMoBio extends TextSourceBaseImpl implements TextSource {
 						l3Index++;
 						l3Ordinal = String.format("%s", l3Index);
 						l3Label = l2Link.text();
-						Resource l3Topic = createTopic(l2Topic, l1Ordinal + l2Ordinal + l3Ordinal, l3Label);
+						Resource l3Topic = createTopic(3, l2Topic, l1Ordinal + l2Ordinal + l3Ordinal, l3Label);
 						String l3Url = l2Link.attr("abs:href");
 						String l3Text = getDocumentText(l3Url);
 						Resource l3Section = createSection(l2Section, l1Ordinal + l2Ordinal + l3Ordinal, l3Text);

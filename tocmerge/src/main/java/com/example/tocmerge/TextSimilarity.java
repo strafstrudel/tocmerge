@@ -46,8 +46,9 @@ public class TextSimilarity {
 		doSectionText(m1, (topic1, text1) -> {
 			doSectionText(m2, (topic2, text2) -> {
 				double sim = metric.similarity(text1, text2);
-				if (sim >= .6)
+				if (sim >= .5) {
 					System.out.println(topic1 + " <--> " + topic2 + " ==> " + sim);
+				}
 			});
 		});
 		

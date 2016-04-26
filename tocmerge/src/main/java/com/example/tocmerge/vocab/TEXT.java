@@ -23,6 +23,7 @@ public class TEXT {
     public static final Property subTopicOf      = property("subTopicOf");    
     public static final Property topicOrdinal    = property("topicOrdinal");
     public static final Property topicLabel      = property("topicLabel");
+    public static final Property topicLevel      = property("topicLevel");
     
     public static final Property subSectionOf    = property("subSectionOf");
     public static final Property sectionText     = property("sectionText");

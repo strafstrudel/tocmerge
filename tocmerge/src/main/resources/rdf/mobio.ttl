@@ -10,11 +10,13 @@ mobio:Section3E4  a            txtmod:Section ;
 mobio:Topic10D2  a           txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic10D ;
         txtmod:topicLabel    "Normal vs. Cancerous Growth" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "10D2" .
 
 mobio:Topic8F7  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8F ;
         txtmod:topicLabel    "Axis Formation" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8F7" .
 
 mobio:Section8D7  a            txtmod:Section ;
@@ -26,6 +28,7 @@ mobio:Section8D7  a            txtmod:Section ;
 mobio:Topic6B  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic6 ;
         txtmod:topicLabel    "Signaling via Hydrophobic Molecules" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "6B" .
 
 mobio:Section5C5  a            txtmod:Section ;
@@ -37,6 +40,7 @@ mobio:Section5C5  a            txtmod:Section ;
 mobio:Topic2F4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2F ;
         txtmod:topicLabel    "Ion Channels" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2F4" .
 
 mobio:Section1A3  a            txtmod:Section ;
@@ -48,11 +52,13 @@ mobio:Section1A3  a            txtmod:Section ;
 mobio:Topic3B  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3 ;
         txtmod:topicLabel    "DNA Structure" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3B" .
 
 mobio:Topic2C4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2C ;
         txtmod:topicLabel    "Beta Strand, Beta Sheet and Beta Barrel" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2C4" .
 
 mobio:Section4H  a             txtmod:Section ;
@@ -75,11 +81,13 @@ mobio:Section1E5  a            txtmod:Section ;
 mobio:Topic7D  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic7 ;
         txtmod:topicLabel    "Topoisomerases" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "7D" .
 
 mobio:Topic5D2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5D ;
         txtmod:topicLabel    "Transport into Rough ER" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5D2" .
 
 mobio:Section9A4  a            txtmod:Section ;
@@ -91,11 +99,13 @@ mobio:Section9A4  a            txtmod:Section ;
 mobio:Topic4D  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4 ;
         txtmod:topicLabel    "Transcription Mechanisms in Prokaryotes" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4D" .
 
 mobio:Topic5A2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5A ;
         txtmod:topicLabel    "RNA Splicing" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5A2" .
 
 mobio:Section4I3  a            txtmod:Section ;
@@ -107,6 +117,7 @@ mobio:Section4I3  a            txtmod:Section ;
 mobio:Topic1D  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1 ;
         txtmod:topicLabel    "Cytoplasmic Organelles" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1D" .
 
 mobio:Section4F3  a            txtmod:Section ;
@@ -124,16 +135,19 @@ mobio:Section2E2  a            txtmod:Section ;
 mobio:Topic3G3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3G ;
         txtmod:topicLabel    "Interspersed Repeats" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3G3" .
 
 mobio:Topic7F5  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic7F ;
         txtmod:topicLabel    "DNA Methylation and CpG Island" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "7F5" .
 
 mobio:Topic8F  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8 ;
         txtmod:topicLabel    "Mechanisms of Development" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8F" .
 
 mobio:Section9A  a             txtmod:Section ;
@@ -150,11 +164,13 @@ mobio:Section4C3  a            txtmod:Section ;
 mobio:Topic1F2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1F ;
         txtmod:topicLabel    "The Life Cycle of Lambda Phages" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1F2" .
 
 mobio:Topic3D3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3D ;
         txtmod:topicLabel    "Conformation of Chromatin Fibers" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3D3" .
 
 mobio:Section6A  a             txtmod:Section ;
@@ -165,16 +181,19 @@ mobio:Section6A  a             txtmod:Section ;
 mobio:Topic1C2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1C ;
         txtmod:topicLabel    "Chromosomes and Karyotype" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1C2" .
 
 mobio:Topic3A3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3A ;
         txtmod:topicLabel    "The Nucleic Acid Chain" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3A3" .
 
 mobio:Topic2F  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2 ;
         txtmod:topicLabel    "Membrane Proteins" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2F" .
 
 mobio:Section3A  a             txtmod:Section ;
@@ -185,6 +204,7 @@ mobio:Section3A  a             txtmod:Section ;
 mobio:Topic8F2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8F ;
         txtmod:topicLabel    "Overview" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8F2" .
 
 mobio:Section2F4  a            txtmod:Section ;
@@ -196,11 +216,13 @@ mobio:Section2F4  a            txtmod:Section ;
 mobio:Topic3H5  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3H ;
         txtmod:topicLabel    "The Yeast Genome" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3H5" .
 
 mobio:Topic9H  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic9 ;
         txtmod:topicLabel    "Production of Recombinant Proteins" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "9H" .
 
 mobio:Section8D2  a            txtmod:Section ;
@@ -218,6 +240,7 @@ mobio:Section2C4  a            txtmod:Section ;
 mobio:Topic3E5  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3E ;
         txtmod:topicLabel    "Non-standard Genetic Codes" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3E5" .
 
 mobio:Section8A2  a            txtmod:Section ;
@@ -234,11 +257,13 @@ mobio:Section7C  a             txtmod:Section ;
 mobio:Topic5C6  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5C ;
         txtmod:topicLabel    "Procedure of Protein Synthesis" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5C6" .
 
 mobio:Topic3H  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3 ;
         txtmod:topicLabel    "Genomes" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3H" .
 
 mobio:Section4C  a             txtmod:Section ;
@@ -249,6 +274,7 @@ mobio:Section4C  a             txtmod:Section ;
 mobio:Topic4H2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4H ;
         txtmod:topicLabel    "Regulation of lac Repressor" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4H2" .
 
 mobio:Section5D2  a            txtmod:Section ;
@@ -265,6 +291,7 @@ mobio:Section1C  a             txtmod:Section ;
 mobio:Topic6F3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic6F ;
         txtmod:topicLabel    "Signaling by NF-κB" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "6F3" .
 
 mobio:Section6D3  a            txtmod:Section ;
@@ -276,11 +303,13 @@ mobio:Section6D3  a            txtmod:Section ;
 mobio:Topic4E2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4E ;
         txtmod:topicLabel    "Assembly of the Pre-Initiation Complex" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4E2" .
 
 mobio:Topic8D4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8D ;
         txtmod:topicLabel    "Gene Conversion" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8D4" .
 
 mobio:Section5A2  a            txtmod:Section ;
@@ -297,10 +326,12 @@ mobio:Section8E  a             txtmod:Section ;
 mobio:Topic4B2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4B ;
         txtmod:topicLabel    "RNA Polymerases" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4B2" .
 
 mobio:Topic5  a              txtmod:Topic ;
         txtmod:topicLabel    "Posttranscriptional Processes" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5" .
 
 mobio:Section5E  a             txtmod:Section ;
@@ -328,6 +359,7 @@ mobio:Section1F2  a            txtmod:Section ;
 mobio:Topic8A  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8 ;
         txtmod:topicLabel    "Cell Cycle" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8A" .
 
 mobio:Section8F6  a            txtmod:Section ;
@@ -345,6 +377,7 @@ mobio:Section3D3  a            txtmod:Section ;
 mobio:Topic4F4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4F ;
         txtmod:topicLabel    "Leucine Zipper" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4F4" .
 
 mobio:Section1C2  a            txtmod:Section ;
@@ -356,11 +389,13 @@ mobio:Section1C2  a            txtmod:Section ;
 mobio:Topic5A  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5 ;
         txtmod:topicLabel    "RNA Processing" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5A" .
 
 mobio:Topic2E3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2E ;
         txtmod:topicLabel    "Catalytic Mechanisms of Enzymes" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2E3" .
 
 mobio:Section9G  a             txtmod:Section ;
@@ -377,11 +412,13 @@ mobio:Section3A3  a            txtmod:Section ;
 mobio:Topic4C4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4C ;
         txtmod:topicLabel    "The IL-2 Promoter" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4C4" .
 
 mobio:Topic2A  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2 ;
         txtmod:topicLabel    "Building Blocks - Amino Acids" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2A" .
 
 mobio:Section3H5  a            txtmod:Section ;
@@ -393,6 +430,7 @@ mobio:Section3H5  a            txtmod:Section ;
 mobio:Topic9C  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic9 ;
         txtmod:topicLabel    "Gel Electrophoresis" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "9C" .
 
 mobio:Section3G  a             txtmod:Section ;
@@ -409,6 +447,7 @@ mobio:Section3E5  a            txtmod:Section ;
 mobio:Topic10D3  a           txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic10D ;
         txtmod:topicLabel    "Genes and Cancer" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "10D3" .
 
 mobio:Section5C6  a            txtmod:Section ;
@@ -420,11 +459,13 @@ mobio:Section5C6  a            txtmod:Section ;
 mobio:Topic6C  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic6 ;
         txtmod:topicLabel    "Signaling via Ion Channels" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "6C" .
 
 mobio:Topic2F5  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2F ;
         txtmod:topicLabel    "Transport Proteins" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2F5" .
 
 mobio:Section7B2  a            txtmod:Section ;
@@ -436,6 +477,7 @@ mobio:Section7B2  a            txtmod:Section ;
 mobio:Topic3C  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3 ;
         txtmod:topicLabel    "RNA Structure and Function" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3C" .
 
 mobio:Section4H2  a            txtmod:Section ;
@@ -447,6 +489,7 @@ mobio:Section4H2  a            txtmod:Section ;
 mobio:Topic10A  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic10 ;
         txtmod:topicLabel    "Genome Mapping" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "10A" .
 
 mobio:Section4I  a             txtmod:Section ;
@@ -469,11 +512,13 @@ mobio:Section7F4  a            txtmod:Section ;
 mobio:Topic3F2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3F ;
         txtmod:topicLabel    "β-globin Gene and Gene Family" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3F2" .
 
 mobio:Topic7E  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic7 ;
         txtmod:topicLabel    "Mutation and Consequences" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "7E" .
 
 mobio:Section4B2  a            txtmod:Section ;
@@ -485,6 +530,7 @@ mobio:Section4B2  a            txtmod:Section ;
 mobio:Topic5D3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5D ;
         txtmod:topicLabel    "Transport into and Across Golgi" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5D3" .
 
 mobio:Section9A5  a            txtmod:Section ;
@@ -496,21 +542,25 @@ mobio:Section9A5  a            txtmod:Section ;
 mobio:Topic3C2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3C ;
         txtmod:topicLabel    "Structure of tRNA" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3C2" .
 
 mobio:Topic4E  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4 ;
         txtmod:topicLabel    "Transcription Mechanisms in Eukaryotes" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4E" .
 
 mobio:Topic5A3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5A ;
         txtmod:topicLabel    "RNA Editing" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5A3" .
 
 mobio:Topic1E  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1 ;
         txtmod:topicLabel    "Viruses" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1E" .
 
 mobio:Section4F4  a            txtmod:Section ;
@@ -528,6 +578,7 @@ mobio:Section2E3  a            txtmod:Section ;
 mobio:Topic3G4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3G ;
         txtmod:topicLabel    "Jefferson, Alleged Sons and Microsatellites" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3G4" .
 
 mobio:Section9B  a             txtmod:Section ;
@@ -549,6 +600,7 @@ mobio:Section6B  a             txtmod:Section ;
 mobio:Topic1C3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1C ;
         txtmod:topicLabel    "Chromosome Numbers" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1C3" .
 
 mobio:Section3B  a             txtmod:Section ;
@@ -565,6 +617,7 @@ mobio:Section6F2  a            txtmod:Section ;
 mobio:Topic8F3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8F ;
         txtmod:topicLabel    "Fertilization" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8F3" .
 
 mobio:Section2F5  a            txtmod:Section ;
@@ -576,11 +629,13 @@ mobio:Section2F5  a            txtmod:Section ;
 mobio:Topic3H6  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3H ;
         txtmod:topicLabel    "The Genomes of Mitochondria and Chloroplasts" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3H6" .
 
 mobio:Topic9I  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic9 ;
         txtmod:topicLabel    "Organism Cloning" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "9I" .
 
 mobio:Section8D3  a            txtmod:Section ;
@@ -592,6 +647,7 @@ mobio:Section8D3  a            txtmod:Section ;
 mobio:Topic6E2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic6E ;
         txtmod:topicLabel    "Ras and Other Small G Proteins" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "6E2" .
 
 mobio:Section7D  a             txtmod:Section ;
@@ -618,6 +674,7 @@ mobio:Section3F2  a            txtmod:Section ;
 mobio:Topic4H3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4H ;
         txtmod:topicLabel    "Regulation of λ Repressor (cI)" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4H3" .
 
 mobio:Section1D  a             txtmod:Section ;
@@ -634,6 +691,7 @@ mobio:Section5D3  a            txtmod:Section ;
 mobio:Topic6F4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic6F ;
         txtmod:topicLabel    "Signaling by STAT" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "6F4" .
 
 mobio:Section3C2  a            txtmod:Section ;
@@ -645,6 +703,7 @@ mobio:Section3C2  a            txtmod:Section ;
 mobio:Topic8D5  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8D ;
         txtmod:topicLabel    "Unequal Crossover" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8D5" .
 
 mobio:Section5A3  a            txtmod:Section ;
@@ -660,11 +719,13 @@ mobio:Section8F  a             txtmod:Section ;
 
 mobio:Topic6  a              txtmod:Topic ;
         txtmod:topicLabel    "Cell Signaling and Apoptosis" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "6" .
 
 mobio:Topic2A2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2A ;
         txtmod:topicLabel    "The Twenty Amino Acids of Proteins" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2A2" .
 
 mobio:Section3G4  a            txtmod:Section ;
@@ -676,6 +737,7 @@ mobio:Section3G4  a            txtmod:Section ;
 mobio:Topic8B  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8 ;
         txtmod:topicLabel    "Mitosis" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8B" .
 
 mobio:Section2F  a             txtmod:Section ;
@@ -692,6 +754,7 @@ mobio:Section8F7  a            txtmod:Section ;
 mobio:Topic4F5  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4F ;
         txtmod:topicLabel    "Helix-Loop-Helix" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4F5" .
 
 mobio:Section1C3  a            txtmod:Section ;
@@ -703,6 +766,7 @@ mobio:Section1C3  a            txtmod:Section ;
 mobio:Topic5B  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5 ;
         txtmod:topicLabel    "Nuclear Transport" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5B" .
 
 mobio:Section9H  a             txtmod:Section ;
@@ -713,16 +777,19 @@ mobio:Section9H  a             txtmod:Section ;
 mobio:Topic9A2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic9A ;
         txtmod:topicLabel    "Illustration for Molecular Cloning" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "9A2" .
 
 mobio:Topic4C5  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4C ;
         txtmod:topicLabel    "Enhancer" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4C5" .
 
 mobio:Topic2B  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2 ;
         txtmod:topicLabel    "Peptides" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2B" .
 
 mobio:Section3H6  a            txtmod:Section ;
@@ -734,6 +801,7 @@ mobio:Section3H6  a            txtmod:Section ;
 mobio:Topic9D  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic9 ;
         txtmod:topicLabel    "Blotting Methods and Applications" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "9D" .
 
 mobio:Section3H  a             txtmod:Section ;
@@ -744,21 +812,25 @@ mobio:Section3H  a             txtmod:Section ;
 mobio:Topic6D  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic6 ;
         txtmod:topicLabel    "Signaling via G-Protein-Coupled Receptors" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "6D" .
 
 mobio:Topic2F6  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2F ;
         txtmod:topicLabel    "Membrane Attached Proteins" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2F6" .
 
 mobio:Topic5C2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5C ;
         txtmod:topicLabel    "Initiation Signal of Protein Synthesis" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5C2" .
 
 mobio:Topic3D  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3 ;
         txtmod:topicLabel    "Chromatin Structure" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3D" .
 
 mobio:Section4H3  a            txtmod:Section ;
@@ -770,6 +842,7 @@ mobio:Section4H3  a            txtmod:Section ;
 mobio:Topic10B  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic10 ;
         txtmod:topicLabel    "Genome-wide Association Study" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "10B" .
 
 mobio:Section7F5  a            txtmod:Section ;
@@ -780,16 +853,19 @@ mobio:Section7F5  a            txtmod:Section ;
 
 mobio:Topic10  a             txtmod:Topic ;
         txtmod:topicLabel    "Genes and Diseases" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "10" .
 
 mobio:Topic3F3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3F ;
         txtmod:topicLabel    "Duplicated Genes" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3F3" .
 
 mobio:Topic7F  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic7 ;
         txtmod:topicLabel    "Mutation Mechanisms" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "7F" .
 
 mobio:Section8A  a             txtmod:Section ;
@@ -800,15 +876,18 @@ mobio:Section8A  a             txtmod:Section ;
 mobio:Topic1E2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1E ;
         txtmod:topicLabel    "Baltimore Classification of Viruses" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1E2" .
 
 mobio:Topic5D4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5D ;
         txtmod:topicLabel    "Transport to Lysosome" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5D4" .
 
 mobio:Topic1  a              txtmod:Topic ;
         txtmod:topicLabel    "Cells and Viruses" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1" .
 
 mobio:Section2A2  a            txtmod:Section ;
@@ -820,11 +899,13 @@ mobio:Section2A2  a            txtmod:Section ;
 mobio:Topic3C3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3C ;
         txtmod:topicLabel    "Ribosome" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3C3" .
 
 mobio:Topic4F  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4 ;
         txtmod:topicLabel    "Motif Structures of Transcription Factors" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4F" .
 
 mobio:Section5A  a             txtmod:Section ;
@@ -835,11 +916,13 @@ mobio:Section5A  a             txtmod:Section ;
 mobio:Topic1B2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1B ;
         txtmod:topicLabel    "Phospholipids" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1B2" .
 
 mobio:Topic1F  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1 ;
         txtmod:topicLabel    "Bacteriophages" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1F" .
 
 mobio:Section2A  a             txtmod:Section ;
@@ -873,6 +956,7 @@ mobio:Section4C5  a            txtmod:Section ;
 mobio:Topic8B2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8B ;
         txtmod:topicLabel    "MPF and the Initiation of Mitosis" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8B2" .
 
 mobio:Section6C  a             txtmod:Section ;
@@ -883,6 +967,7 @@ mobio:Section6C  a             txtmod:Section ;
 mobio:Topic1C4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1C ;
         txtmod:topicLabel    "Sex Chromosomes" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1C4" .
 
 mobio:Section3C  a             txtmod:Section ;
@@ -893,6 +978,7 @@ mobio:Section3C  a             txtmod:Section ;
 mobio:Topic8F4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8F ;
         txtmod:topicLabel    "Cleavage" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8F4" .
 
 mobio:Section6F3  a            txtmod:Section ;
@@ -904,6 +990,7 @@ mobio:Section6F3  a            txtmod:Section ;
 mobio:Topic4G2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4G ;
         txtmod:topicLabel    "CREB Binding Protein (CBP) and p300" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4G2" .
 
 mobio:Section2F6  a            txtmod:Section ;
@@ -927,6 +1014,7 @@ mobio:Section8D4  a            txtmod:Section ;
 mobio:Topic4D2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4D ;
         txtmod:topicLabel    "Transcriptional Termination in Prokaryotes" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4D2" .
 
 mobio:Section7E  a             txtmod:Section ;
@@ -953,6 +1041,7 @@ mobio:Section3F3  a            txtmod:Section ;
 mobio:Topic4H4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4H ;
         txtmod:topicLabel    "Regulation of NF-κB" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4H4" .
 
 mobio:Section1E  a             txtmod:Section ;
@@ -975,11 +1064,13 @@ mobio:Section1E2  a            txtmod:Section ;
 mobio:Topic7A  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic7 ;
         txtmod:topicLabel    "Overview of DNA Replication" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "7A" .
 
 mobio:Topic6F5  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic6F ;
         txtmod:topicLabel    "The MAPK Signaling Pathway" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "6F5" .
 
 mobio:Section3C3  a            txtmod:Section ;
@@ -991,6 +1082,7 @@ mobio:Section3C3  a            txtmod:Section ;
 mobio:Topic8D6  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8D ;
         txtmod:topicLabel    "Site-specific Recombination" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8D6" .
 
 mobio:Section1B2  a            txtmod:Section ;
@@ -1002,30 +1094,36 @@ mobio:Section1B2  a            txtmod:Section ;
 mobio:Topic4A  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4 ;
         txtmod:topicLabel    "Overview of Gene Expression" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4A" .
 
 mobio:Topic7  a              txtmod:Topic ;
         txtmod:topicLabel    "DNA Replication, Mutation and Repair" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "7" .
 
 mobio:Topic1A  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1 ;
         txtmod:topicLabel    "Cellular Organization" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1A" .
 
 mobio:Topic2A3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2A ;
         txtmod:topicLabel    "pH and pKa" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2A3" .
 
 mobio:Topic7F2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic7F ;
         txtmod:topicLabel    "Mutation by UV light" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "7F2" .
 
 mobio:Topic8C  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8 ;
         txtmod:topicLabel    "Meiosis" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8C" .
 
 mobio:Section1C4  a            txtmod:Section ;
@@ -1037,6 +1135,7 @@ mobio:Section1C4  a            txtmod:Section ;
 mobio:Topic5C  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5 ;
         txtmod:topicLabel    "Synthesis of Proteins" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5C" .
 
 mobio:Section9I  a             txtmod:Section ;
@@ -1047,16 +1146,19 @@ mobio:Section9I  a             txtmod:Section ;
 mobio:Topic9A3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic9A ;
         txtmod:topicLabel    "Sticky Ends" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "9A3" .
 
 mobio:Topic4C6  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4C ;
         txtmod:topicLabel    "Silencer" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4C6" .
 
 mobio:Topic2C  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2 ;
         txtmod:topicLabel    "Secondary Structure" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2C" .
 
 mobio:Section4G2  a            txtmod:Section ;
@@ -1074,11 +1176,13 @@ mobio:Section10D2  a           txtmod:Section ;
 mobio:Topic3H2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3H ;
         txtmod:topicLabel    "The Genome of Hepatitis B virus" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3H2" .
 
 mobio:Topic9E  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic9 ;
         txtmod:topicLabel    "Polymerase Chain Reaction (PCR)" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "9E" .
 
 mobio:Section4D2  a            txtmod:Section ;
@@ -1090,26 +1194,31 @@ mobio:Section4D2  a            txtmod:Section ;
 mobio:Topic3E2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3E ;
         txtmod:topicLabel    "Cracking the Genetic Code" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3E2" .
 
 mobio:Topic6E  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic6 ;
         txtmod:topicLabel    "Signaling via Cell Surface Enzymes" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "6E" .
 
 mobio:Topic5C3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5C ;
         txtmod:topicLabel    "Frameshift" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5C3" .
 
 mobio:Topic3B2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3B ;
         txtmod:topicLabel    "DNA's B Form, A Form and Z Form" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3B2" .
 
 mobio:Topic3E  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3 ;
         txtmod:topicLabel    "The Genetic Code" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3E" .
 
 mobio:Section4H4  a            txtmod:Section ;
@@ -1121,11 +1230,13 @@ mobio:Section4H4  a            txtmod:Section ;
 mobio:Topic10C  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic10 ;
         txtmod:topicLabel    "Gene Therapy" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "10C" .
 
 mobio:Topic7G  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic7 ;
         txtmod:topicLabel    "DNA Repair Mechanisms" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "7G" .
 
 mobio:Section8B  a             txtmod:Section ;
@@ -1136,6 +1247,7 @@ mobio:Section8B  a             txtmod:Section ;
 mobio:Topic1E3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1E ;
         txtmod:topicLabel    "Virus Structure" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1E3" .
 
 mobio:Section2A3  a            txtmod:Section ;
@@ -1146,11 +1258,13 @@ mobio:Section2A3  a            txtmod:Section ;
 
 mobio:Topic2  a              txtmod:Topic ;
         txtmod:topicLabel    "Protein Structure and Function" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2" .
 
 mobio:Topic4G  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4 ;
         txtmod:topicLabel    "Histone Acetylation and DNA Methylation" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4G" .
 
 mobio:Section5B  a             txtmod:Section ;
@@ -1161,6 +1275,7 @@ mobio:Section5B  a             txtmod:Section ;
 mobio:Topic1B3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1B ;
         txtmod:topicLabel    "Cholesterol and Steroids" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1B3" .
 
 mobio:Section2B  a             txtmod:Section ;
@@ -1188,6 +1303,7 @@ mobio:Section9D  a             txtmod:Section ;
 mobio:Topic6D2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic6D ;
         txtmod:topicLabel    "G Proteins" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "6D2" .
 
 mobio:Section4C6  a            txtmod:Section ;
@@ -1199,6 +1315,7 @@ mobio:Section4C6  a            txtmod:Section ;
 mobio:Topic8B3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8B ;
         txtmod:topicLabel    "Termination Mechanism of Mitosis" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8B3" .
 
 mobio:Section6D  a             txtmod:Section ;
@@ -1209,6 +1326,7 @@ mobio:Section6D  a             txtmod:Section ;
 mobio:Topic1C5  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1C ;
         txtmod:topicLabel    "Banding Pattern of Human Chromosomes" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1C5" .
 
 mobio:Section3H2  a            txtmod:Section ;
@@ -1237,11 +1355,13 @@ mobio:Section6F4  a            txtmod:Section ;
 mobio:Topic4G3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4G ;
         txtmod:topicLabel    "Transcriptional Regulation by Histone Acetylation and Deacetylation" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4G3" .
 
 mobio:Topic8F5  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8F ;
         txtmod:topicLabel    "Blastulation" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8F5" .
 
 mobio:Section8D5  a            txtmod:Section ;
@@ -1259,6 +1379,7 @@ mobio:Section5C3  a            txtmod:Section ;
 mobio:Topic2F2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2F ;
         txtmod:topicLabel    "G-protein-Coupled Receptors" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2F2" .
 
 mobio:Section3B2  a            txtmod:Section ;
@@ -1270,11 +1391,13 @@ mobio:Section3B2  a            txtmod:Section ;
 mobio:Topic4D3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4D ;
         txtmod:topicLabel    "Regulation of lac Operon Transcription" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4D3" .
 
 mobio:Topic2C2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2C ;
         txtmod:topicLabel    "Hydrogen Bond" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2C2" .
 
 mobio:Section7F  a             txtmod:Section ;
@@ -1295,11 +1418,13 @@ mobio:Section4F  a             txtmod:Section ;
 mobio:Topic4H5  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4H ;
         txtmod:topicLabel    "p53" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4H5" .
 
 mobio:Topic7B  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic7 ;
         txtmod:topicLabel    "Mechanism of DNA Replication" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "7B" .
 
 mobio:Section1E3  a            txtmod:Section ;
@@ -1316,6 +1441,7 @@ mobio:Section1F  a             txtmod:Section ;
 mobio:Topic8D7  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8D ;
         txtmod:topicLabel    "Transpositional Recombination" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8D7" .
 
 mobio:Section9A2  a            txtmod:Section ;
@@ -1333,25 +1459,30 @@ mobio:Section1B3  a            txtmod:Section ;
 mobio:Topic4B  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4 ;
         txtmod:topicLabel    "Overview of Transcription" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4B" .
 
 mobio:Topic8  a              txtmod:Topic ;
         txtmod:topicLabel    "Cell Division and System Development" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8" .
 
 mobio:Topic1B  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1 ;
         txtmod:topicLabel    "Biomembranes" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1B" .
 
 mobio:Topic7F3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic7F ;
         txtmod:topicLabel    "Mutation by Chemical Agents" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "7F3" .
 
 mobio:Topic8D  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8 ;
         txtmod:topicLabel    "DNA Recombination" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8D" .
 
 mobio:Section1C5  a            txtmod:Section ;
@@ -1363,26 +1494,31 @@ mobio:Section1C5  a            txtmod:Section ;
 mobio:Topic5D  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5 ;
         txtmod:topicLabel    "Sorting of Proteins" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5D" .
 
 mobio:Topic5B2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5B ;
         txtmod:topicLabel    "The Role of HIV rev Protein" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5B2" .
 
 mobio:Topic9A4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic9A ;
         txtmod:topicLabel    "Restriction Enzymes" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "9A4" .
 
 mobio:Topic4C7  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4C ;
         txtmod:topicLabel    "Response Elements" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4C7" .
 
 mobio:Topic2D  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2 ;
         txtmod:topicLabel    "Three-Dimensional Structure" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2D" .
 
 mobio:Section4G3  a            txtmod:Section ;
@@ -1406,11 +1542,13 @@ mobio:Section10D3  a           txtmod:Section ;
 mobio:Topic3H3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3H ;
         txtmod:topicLabel    "The HIV Genome" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3H3" .
 
 mobio:Topic9F  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic9 ;
         txtmod:topicLabel    "DNA Microarray" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "9F" .
 
 mobio:Section4D3  a            txtmod:Section ;
@@ -1428,11 +1566,13 @@ mobio:Section2C2  a            txtmod:Section ;
 mobio:Topic3E3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3E ;
         txtmod:topicLabel    "mRNA" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3E3" .
 
 mobio:Topic6F  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic6 ;
         txtmod:topicLabel    "Intracellular Signaling" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "6F" .
 
 mobio:Section7A  a             txtmod:Section ;
@@ -1443,11 +1583,13 @@ mobio:Section7A  a             txtmod:Section ;
 mobio:Topic5C4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5C ;
         txtmod:topicLabel    "Gene Overlapping" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5C4" .
 
 mobio:Topic3F  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3 ;
         txtmod:topicLabel    "Genes" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3F" .
 
 mobio:Section4A  a             txtmod:Section ;
@@ -1458,6 +1600,7 @@ mobio:Section4A  a             txtmod:Section ;
 mobio:Topic1A2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1A ;
         txtmod:topicLabel    "Prokaryotic Cells" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1A2" .
 
 mobio:Section4H5  a            txtmod:Section ;
@@ -1469,6 +1612,7 @@ mobio:Section4H5  a            txtmod:Section ;
 mobio:Topic10D  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic10 ;
         txtmod:topicLabel    "Cancer" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "10D" .
 
 mobio:Section1A  a             txtmod:Section ;
@@ -1479,6 +1623,7 @@ mobio:Section1A  a             txtmod:Section ;
 mobio:Topic8D2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8D ;
         txtmod:topicLabel    "Homologous Recombination" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8D2" .
 
 mobio:Section8B2  a            txtmod:Section ;
@@ -1495,20 +1640,24 @@ mobio:Section8C  a             txtmod:Section ;
 mobio:Topic1E4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1E ;
         txtmod:topicLabel    "The Life Cycle of Viruses" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1E4" .
 
 mobio:Topic3  a              txtmod:Topic ;
         txtmod:topicLabel    "Nucleic Acids, Genes and Genomes" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3" .
 
 mobio:Topic8A2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8A ;
         txtmod:topicLabel    "Initiation and Termination Mechanism of the S phase" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8A2" .
 
 mobio:Topic4H  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4 ;
         txtmod:topicLabel    "Regulation of Transcription Factors" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4H" .
 
 mobio:Section5C  a             txtmod:Section ;
@@ -1519,6 +1668,7 @@ mobio:Section5C  a             txtmod:Section ;
 mobio:Topic4I2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4I ;
         txtmod:topicLabel    "Mechanism of Reverse Transcription" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4I2" .
 
 mobio:Section2C  a             txtmod:Section ;
@@ -1535,6 +1685,7 @@ mobio:Section8F4  a            txtmod:Section ;
 mobio:Topic4F2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4F ;
         txtmod:topicLabel    "Zinc Finger" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4F2" .
 
 mobio:Section5B2  a            txtmod:Section ;
@@ -1551,6 +1702,7 @@ mobio:Section9E  a             txtmod:Section ;
 mobio:Topic6D3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic6D ;
         txtmod:topicLabel    "G Protein Effectors" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "6D3" .
 
 mobio:Section4C7  a            txtmod:Section ;
@@ -1562,6 +1714,7 @@ mobio:Section4C7  a            txtmod:Section ;
 mobio:Topic4C2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4C ;
         txtmod:topicLabel    "Promoter" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4C2" .
 
 mobio:Section6E  a             txtmod:Section ;
@@ -1578,6 +1731,7 @@ mobio:Section3H3  a            txtmod:Section ;
 mobio:Topic9A  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic9 ;
         txtmod:topicLabel    "Molecular Cloning" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "9A" .
 
 mobio:Section3E  a             txtmod:Section ;
@@ -1600,6 +1754,7 @@ mobio:Section6F5  a            txtmod:Section ;
 mobio:Topic8F6  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8F ;
         txtmod:topicLabel    "Gastrulation" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8F6" .
 
 mobio:Section8D6  a            txtmod:Section ;
@@ -1617,16 +1772,19 @@ mobio:Section5C4  a            txtmod:Section ;
 mobio:Topic6A  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic6 ;
         txtmod:topicLabel    "Overview" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "6A" .
 
 mobio:Topic2F3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2F ;
         txtmod:topicLabel    "Immunoglobulin Family" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2F3" .
 
 mobio:Topic4D4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4D ;
         txtmod:topicLabel    "Activation of glnA Transcription by NTRC" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4D4" .
 
 mobio:Section1A2  a            txtmod:Section ;
@@ -1638,11 +1796,13 @@ mobio:Section1A2  a            txtmod:Section ;
 mobio:Topic3A  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3 ;
         txtmod:topicLabel    "Building Blocks - Nucleotides" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3A" .
 
 mobio:Topic2C3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2C ;
         txtmod:topicLabel    "Alpha Helix" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2C3" .
 
 mobio:Section7G  a             txtmod:Section ;
@@ -1675,6 +1835,7 @@ mobio:Section1E4  a            txtmod:Section ;
 mobio:Topic7C  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic7 ;
         txtmod:topicLabel    "Telomerase and Aging" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "7C" .
 
 mobio:Section9A3  a            txtmod:Section ;
@@ -1686,11 +1847,13 @@ mobio:Section9A3  a            txtmod:Section ;
 mobio:Topic7B2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic7B ;
         txtmod:topicLabel    "Synthesis of DNA" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "7B2" .
 
 mobio:Topic4C  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4 ;
         txtmod:topicLabel    "Gene's Regulatory Elements" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4C" .
 
 mobio:Section4I2  a            txtmod:Section ;
@@ -1701,11 +1864,13 @@ mobio:Section4I2  a            txtmod:Section ;
 
 mobio:Topic9  a              txtmod:Topic ;
         txtmod:topicLabel    "Biotechnology" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "9" .
 
 mobio:Topic1C  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1 ;
         txtmod:topicLabel    "The Nucleus" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1C" .
 
 mobio:Section4F2  a            txtmod:Section ;
@@ -1717,16 +1882,19 @@ mobio:Section4F2  a            txtmod:Section ;
 mobio:Topic3G2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3G ;
         txtmod:topicLabel    "Tandem Repeats" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3G2" .
 
 mobio:Topic7F4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic7F ;
         txtmod:topicLabel    "Mutation by Replication Errors" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "7F4" .
 
 mobio:Topic8E  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8 ;
         txtmod:topicLabel    "Chromosome Abnormality" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8E" .
 
 mobio:Section4C2  a            txtmod:Section ;
@@ -1738,31 +1906,37 @@ mobio:Section4C2  a            txtmod:Section ;
 mobio:Topic3D2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3D ;
         txtmod:topicLabel    "Histones and Nucleosomes" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3D2" .
 
 mobio:Topic5E  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5 ;
         txtmod:topicLabel    "Synthesis of Lipids" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5E" .
 
 mobio:Topic5B3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5B ;
         txtmod:topicLabel    "NFAT, Calcineurin and Immunosuppression" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5B3" .
 
 mobio:Topic9A5  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic9A ;
         txtmod:topicLabel    "Cloning Vectors" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "9A5" .
 
 mobio:Topic3A2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3A ;
         txtmod:topicLabel    "Cellular Nucleotides and Nucleosides" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3A2" .
 
 mobio:Topic2E  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2 ;
         txtmod:topicLabel    "Enzymes" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2E" .
 
 mobio:Section2F3  a            txtmod:Section ;
@@ -1774,11 +1948,13 @@ mobio:Section2F3  a            txtmod:Section ;
 mobio:Topic3H4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3H ;
         txtmod:topicLabel    "The E. coli Genome" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3H4" .
 
 mobio:Topic9G  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic9 ;
         txtmod:topicLabel    "Protein Microarray" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "9G" .
 
 mobio:Section4D4  a            txtmod:Section ;
@@ -1796,6 +1972,7 @@ mobio:Section2C3  a            txtmod:Section ;
 mobio:Topic3E4  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3E ;
         txtmod:topicLabel    "Order in the Genetic Code" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3E4" .
 
 mobio:Section7B  a             txtmod:Section ;
@@ -1806,11 +1983,13 @@ mobio:Section7B  a             txtmod:Section ;
 mobio:Topic5C5  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic5C ;
         txtmod:topicLabel    "Translation by tRNA" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "5C5" .
 
 mobio:Topic3G  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic3 ;
         txtmod:topicLabel    "Repetitive DNA Sequences" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "3G" .
 
 mobio:Section4B  a             txtmod:Section ;
@@ -1821,6 +2000,7 @@ mobio:Section4B  a             txtmod:Section ;
 mobio:Topic1A3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1A ;
         txtmod:topicLabel    "Eukaryotic Cells" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1A3" .
 
 mobio:Section1B  a             txtmod:Section ;
@@ -1831,6 +2011,7 @@ mobio:Section1B  a             txtmod:Section ;
 mobio:Topic6F2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic6F ;
         txtmod:topicLabel    "Signaling by cAMP" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "6F2" .
 
 mobio:Section6D2  a            txtmod:Section ;
@@ -1842,6 +2023,7 @@ mobio:Section6D2  a            txtmod:Section ;
 mobio:Topic8D3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic8D ;
         txtmod:topicLabel    "The Holliday Model of DNA Crossover" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "8D3" .
 
 mobio:Section8B3  a            txtmod:Section ;
@@ -1858,15 +2040,18 @@ mobio:Section8D  a             txtmod:Section ;
 mobio:Topic1E5  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic1E ;
         txtmod:topicLabel    "Mechanism of HIV Entry into the Host Cell" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "1E5" .
 
 mobio:Topic4  a              txtmod:Topic ;
         txtmod:topicLabel    "Gene Transcription" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4" .
 
 mobio:Topic4I  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4 ;
         txtmod:topicLabel    "Transcription of RNA Genes" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4I" .
 
 mobio:Section5D  a             txtmod:Section ;
@@ -1883,6 +2068,7 @@ mobio:Section3G2  a            txtmod:Section ;
 mobio:Topic4I3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4I ;
         txtmod:topicLabel    "Generation of Retroviral Genomic RNA" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4I3" .
 
 mobio:Section2D  a             txtmod:Section ;
@@ -1905,6 +2091,7 @@ mobio:Section3D2  a            txtmod:Section ;
 mobio:Topic4F3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4F ;
         txtmod:topicLabel    "Helix-Turn-Helix" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4F3" .
 
 mobio:Section5B3  a            txtmod:Section ;
@@ -1916,6 +2103,7 @@ mobio:Section5B3  a            txtmod:Section ;
 mobio:Topic2E2  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic2E ;
         txtmod:topicLabel    "Classification of Enzymes" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "2E2" .
 
 mobio:Section9F  a             txtmod:Section ;
@@ -1932,6 +2120,7 @@ mobio:Section3A2  a            txtmod:Section ;
 mobio:Topic4C3  a            txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic4C ;
         txtmod:topicLabel    "The lac Operon Promoter" ;
+        txtmod:topicLevel    "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "4C3" .
 
 mobio:Section6F  a             txtmod:Section ;
@@ -1948,6 +2137,7 @@ mobio:Section3H4  a            txtmod:Section ;
 mobio:Topic9B  a             txtmod:Topic ;
         txtmod:subTopicOf    mobio:Topic9 ;
         txtmod:topicLabel    "DNA Library and Screening" ;
+        txtmod:topicLevel    "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
         txtmod:topicOrdinal  "9B" .
 
 mobio:Section3F  a             txtmod:Section ;

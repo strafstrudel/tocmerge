@@ -56,17 +56,18 @@ public class TextSourceBaseImpl {
 		return document;
 	}
 	
-	Resource createTopic(String ordinal, String label) {
+	Resource createTopic(int level, String ordinal, String label) {
 		String iriRef = namespace + "Topic" + ordinal;
 		Resource topic = model.createResource(iriRef);
 		model.add(topic, RDF.type, TEXT.Topic);
 		model.add(topic, TEXT.topicOrdinal, ordinal);
 		model.add(topic, TEXT.topicLabel, label);
+		model.addLiteral(topic, TEXT.topicLevel, level);
 		return topic;
 	}
 	
-	Resource createTopic(Resource parent, String ordinal, String label) {
-		Resource topic = createTopic(ordinal, label);
+	Resource createTopic(int level, Resource parent, String ordinal, String label) {
+		Resource topic = createTopic(level, ordinal, label);
 		model.add(topic, TEXT.subTopicOf, parent);
 		return topic;
 	}
