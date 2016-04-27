@@ -1,6 +1,10 @@
 package com.example.tocmerge.similarity;
 
 /**
+ * Levenshtein Edit Distance
+ * <p>
+ * Algorithm taken from:
+ * <p>
  * https://en.wikibooks.org/wiki/Algorithm_Implementation/Strings/Levenshtein_distance#Java
  */
 public class Levenshtein {

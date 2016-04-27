@@ -5,6 +5,10 @@ import java.io.IOException;
 import java.util.zip.GZIPOutputStream;
 
 /**
+ * Normalized Compression Distance metric
+ * <p>
+ * Algorithm derived from:
+ * <p>
  * https://en.wikipedia.org/wiki/Normalized_compression_distance
  * 
  * @author bill

@@ -1,0 +1,22 @@
+Observations on interleaving two Mol Bio TOCs.
+Disclaimer: based on visual scan of the two TOCs without deep analysis or examination of underlying text
+
+    The two texts seem organized somewhat differently
+        MoBio is the classic textbook organization: first we discuss the structures, then we talk about how they work together in the functions
+        WikiBook seems more focused on genetic material and its processing into proteins, in a more functional narrative - interleaving structure and function in the processing order of DNA -> RNA -> Protein
+            That is, after an initial introductory chapter that includes both basic chemistry and cells (and after a somewhat oddly placed top-level chapter on the nucleus in particular), it launches right into "what it does" with the Cell Cycle (process), DNA (structure), DNA Replication (process), RNA (structure), RNA (process), etc.
+    We take "MoBio" as the "backbone" for these reasons:
+        The number of cases where near-perfect section matches are of a higher / more general level.
+            Principle: when learning, it is easier to proceed from more general to more specific.
+            Examples:
+                MoBio "Protein [Structure and Function]" is top-level #2; WikiBook "Proteins" is 4th level 111.2
+                MoBio "Prokaryotic Cells" is 3rd level 1A2; Wikibook "Prokaryotes" is 4th level 133.1
+                MoBio "DNA Recombination" is 2nd level 8D; Wikibook "DNA Recombination" is 3rd level 512
+                There are counterexamples, but I think the preponderance of (diffs * magnitude) indicates MoBio is more general
+                Furthermore, the MoBio TOC hierarchy is only 3 levels deep.  WikiBook TOC hierarchy is several more levels deep.
+        The organization of MoBio as classic "first structure, then function"
+            Principle: this is a classic teaching (and for that matter ontic) structuring technique - teach some about the entity, then some about what it does (then iterate between more on what it is & what it does)
+            Could a text analyzer help determine which sections were more about structure vs more about function (e.g. by looking for active forms of verbs for the latter?)
+    On ordering sections, could text analysis help ensure that new / jargon terminology is introduced on a gradient, i.e.
+        That words are defined the first time they are used (sometimes different text formatting is used for definition text)
+        That new / jargon / technical words used with more frequency in subsequent chapters have been used in previous chapters with less frequency

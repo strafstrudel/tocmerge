@@ -117,5 +117,17 @@ public class TextSourceBaseImpl {
 		RDFDataMgr.read(model, in, Lang.TTL);
 		return model;
 	}
+	
+	protected static String ordinal(int... ints) {
+		String[] strs = new String[ints.length];
+		for (int i = 0; i < ints.length; i++) {
+			strs[i] = String.format("%s", ints[i]);
+		}
+		return ordinal(strs);
+	}
+	
+	protected static String ordinal(String... parts) {
+		return String.join("_", parts);
+	}
 
 }

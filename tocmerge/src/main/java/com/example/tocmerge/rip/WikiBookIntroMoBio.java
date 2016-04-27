@@ -11,6 +11,7 @@ import org.apache.jena.query.ResultSet;
 import org.apache.jena.rdf.model.Literal;
 import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.Resource;
+import org.apache.jena.vocabulary.RDF;
 import org.eclipse.collections.api.set.ImmutableSet;
 import org.eclipse.collections.impl.factory.Sets;
 import org.jsoup.nodes.Document;
@@ -35,18 +36,20 @@ public class WikiBookIntroMoBio extends TextSourceBaseImpl implements TextSource
 			);
 	
 	public Model get() {
+		Resource rootTopic = createTopic(0, ordinal(0), "An Introduction to Molecular Biology");
+		model().add(rootTopic, RDF.type, TEXT.Text);
 		try {
 			int l1Index = 1;
 			for (Element l1Link : getL1TOCLinks(URL)) {
 				String l2Url = l1Link.attr("abs:href");
-				String l1Ordinal = String.format("%s", l1Index);
+				String l1Ordinal = ordinal(0, l1Index);
 				String l1Label = l1Link.text();
 				if (topicBlackList.contains(l1Label)) break;
-				Resource l1Topic = createTopic(1, l1Ordinal, l1Label);
+				Resource l1Topic = createTopic(1, rootTopic, l1Ordinal, l1Label);
 				System.out.println(l1Ordinal + " " + l1Label);
-				l1Index++;
 				Element l2Content = getL2Content(l2Url);
 				makeL2Toc(l1Topic, l1Ordinal, l2Content);
+				l1Index++;
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -56,6 +59,7 @@ public class WikiBookIntroMoBio extends TextSourceBaseImpl implements TextSource
 	
 	private void makeL2Toc(Resource l1Topic, String ordinal, Element content) throws IOException {
 		Elements tocList = content.select("#toc > ul > li");
+//		Elements tocList = content.select("#toc ul li");
 		makeNestedToc(2, l1Topic, ordinal, tocList, content);
 	}
 	

@@ -8,6 +8,15 @@ import org.eclipse.collections.api.map.MutableMap;
 import org.eclipse.collections.impl.factory.Maps;
 import org.eclipse.collections.impl.factory.Sets;
 
+/**
+ * Functions for computing term frequency and inverse document frequency
+ * <p>
+ * Algorithms adapted from
+ * <p>
+ * http://computergodzilla.blogspot.com/2013/07/how-to-calculate-tf-idf-of-document.html
+ * 
+ * @author bill
+ */
 public class TFIDF {
 	
 	/**
